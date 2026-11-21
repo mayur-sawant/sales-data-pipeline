@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+
+# Generated data (sample raw data is reproducible: python scripts/generate_sample_data.py)
+data/processed/*
+data/reports/*
+!data/processed/.gitkeep
+!data/reports/.gitkeep
+
+# Spark temp output / metadata
+.*_spark_tmp/
+*.crc
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

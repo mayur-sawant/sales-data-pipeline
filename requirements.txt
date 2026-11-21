@@ -1,0 +1,18 @@
+# Core processing (requires Java 17 or 21 - see README)
+pyspark>=4.1,<4.3
+
+# API
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30
+
+# Used by the API to serve small processed files and by PySpark's Arrow integration
+pandas>=2.2,<3  # PySpark 4.x does not fully support pandas 3 yet
+pyarrow>=15
+
+# Configuration
+python-dotenv>=1.0
+
+# Testing
+pytest>=8.0
+httpx>=0.27
+httpx2>=2.0  # preferred by newer Starlette TestClient

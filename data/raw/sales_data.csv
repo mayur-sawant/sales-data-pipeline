@@ -1,0 +1,1061 @@
+order_id,order_date,customer_id,product_id,product_name,category,region,quantity,unit_price,discount,payment_method
+ORD-000305,2024-08-17,CUST-0187,P3005,Hoodie,Clothing,West,4,39.49,0.0,Debit Card
+ORD-000021,2024-09-28,CUST-0238,P4005,Laptop Sleeve,  Accessories ,eAST,2,23.52,0.25,Net Banking
+ORD-000169,2025-03-13,CUST-0132,P1005,USB-C Hub,Electronics,South,8,38.89,0.1,Net Banking
+ORD-000242,2025-06-02,CUST-0074,P3002,Denim Jeans,Clothing,East,2,49.50,0.0,Cash
+ORD-000699,2024-12-21,CUST-0180,P1006,Bluetooth Speaker,Electronics,West,3,58.50,0.2,UPI
+ORD-000673,2024-02-28,CUST-0061,P2005,Coffee Table,Furniture,South,3,97.43,0.25,Cash
+ORD-000656,2024-10-13,CUST-0225,P2004,Filing Cabinet,Furniture,South,3,154.72,0.25,Cash
+ORD-000052,2024-04-18,CUST-0111,P3003,Winter Jacket,null,West,2,124.52,0.1,PayPal
+ORD-000374,2024-08-28,CUST-0189,P1007,Smartphone Stand,ELECTRONICS,  North ,2,16.01,0.0,UPI
+ORD-000503,2024-03-14,CUST-0010,P4002,Backpack,Accessories,East,4,55.72,0.0,Net Banking
+ORD-000669,not_a_date,CUST-0060,P3003,Winter Jacket,clothing,west,3,,0.0,PayPal
+ORD-000227,2025-03-14,CUST-0043,P4001,Leather Wallet,Accessories,East,2,31.43,0.0,Debit Card
+ORD-000432,2024-11-21,CUST-0018,P2004,Filing Cabinet,FURNITURE,EAST,1,154.06,0.15,PayPal
+ORD-000082,2024/07/13,CUST-0159,P1005,USB-C Hub,Electronics,North,2,0,0.0,PayPal
+ORD-000493,2024-03-18,CUST-0164,P4005,Laptop Sleeve,Accessories,South,1,23.10,0.0,UPI
+ORD-000151,2024-02-19,NULL,P4004,Sunglasses,Accessories,North,2,,0.2,Cash
+ORD-000312,2024-06-23,CUST-0085,P2002,Standing Desk,Furniture,South,1,423.54,0.2,Net Banking
+ORD-000469,2024-04-27,CUST-0152,P3003,Winter Jacket,Clothing,East,1,124.82,0.0,UPI
+ORD-000463,07-09-2024,CUST-0044,P3003,Winter Jacket,Clothing,North,2,123.92,0.0,Cash
+ORD-000640,2024-04-22,CUST-0031,P1005,USB-C Hub,Electronics,South,2,38.42,0.1,UPI
+ORD-000017,2024/08/23,CUST-0151,P1002,Mechanical Keyboard,Electronics,North,1,86.10,0.05,Credit Card
+ORD-000570,2025-03-19,CUST-0170,P2002,Standing Desk,Furniture,South,4,434.36,0.0,Debit Card
+ORD-000141,2025-06-04,CUST-0058,P3004,Running Shoes,Clothing,North,1,85.45,0.25,Debit Card
+ORD-000622,2025-05-20,CUST-0078,P1001,Wireless Mouse,Electronics,North,3,24.64,0.0,Cash
+ORD-000168,2024-07-16,N/A,P2002,Standing Desk,Furniture,North,1,431.91,0.2,Debit Card
+ORD-000380,2025-01-08,CUST-0219,P1005,USB-C Hub,Electronics,South,4,41.86,0.1,Net Banking
+ORD-000020,2024-04-10,CUST-0013,P1003,27-inch Monitor,Electronics,East,1,abc,0.2,Cash
+ORD-000171,2024-04-30,CUST-0164,P2001,Office Chair,Furniture,West,1,173.97,0.15,UPI
+ORD-000328,2025-02-02,CUST-0061,P4004,Sunglasses,Accessories,South,2,75.42,0.15,PayPal
+ORD-000257,2024-05-31,CUST-0024,P1002,,Electronics,East,10,91.58,0.0,UPI
+ORD-000310,2024-04-01,CUST-0233,P1005,USB-C Hub,Electronics,North,3,41.07,0.1,Cash
+ORD-000229,2025-04-07,NULL,P4006,Water Bottle,Accessories,East,2,12.70,0.25,Credit Card
+ORD-000288,2024-04-01,CUST-0049,P3005,Hoodie,Clothing,South,1,41.27,0.1,Net Banking
+ORD-000383,2025-02-11,,P2002,Standing Desk,Furniture,EAST,2,427.99,0.15,Credit Card
+ORD-000160,2024-07-15,CUST-0246,P2003,Bookshelf,Furniture,North,3,123.24,0.25,Cash
+ORD-000008,2024-02-27,CUST-0059,P1003,27-inch Monitor,Electronics,West,5,241.80,0.15,UPI
+ORD-000637,2025-06-15,CUST-0200,P4003,Wrist Watch,Accessories,South,8,148.84,0.25,UPI
+ORD-000384,2024-09-23,CUST-0093,P2002,Standing Desk,Furniture,South,3,425.21,0.05,Cash
+ORD-000308,2025-03-04,CUST-0213,P1004,Noise Cancelling Headphones,Electronics,West,1,191.80,0.05,Cash
+ORD-000507,2024-01-17,CUST-0226,P1003,27-inch Monitor,Electronics,South,1,254.15,0.25,Credit Card
+ORD-000406,2024-11-24,CUST-0185,P1007,,null,North,1,15.77,0.1,Cash
+ORD-000390,2024-11-29,CUST-0222,P3006,Formal Shirt,Clothing,South,0,36.63,0.25,Cash
+ORD-000561,2025/03/16,CUST-0226,P3001,Cotton T-Shirt,Clothing,West,1,14.90,0.1,Net Banking
+ORD-000066,2024-01-27,CUST-0024,P1001,Wireless Mouse,eLECTRONICS,nORTH,-3,25.65,0.25,PayPal
+ORD-000616,2024-01-09,CUST-0027,P3002,Denim Jeans,Clothing,East,2,51.73,0.1,PayPal
+ORD-000370,2024-09-13,CUST-0178,P2001,Office Chair,Furniture,South,2,183.61,0.25,Net Banking
+ORD-000387,2025-06-17,CUST-0248,P1001,Wireless Mouse,Electronics,South,1,24.05,0.0,Debit Card
+ORD-000607,2024-05-10,CUST-0176,P2003,Bookshelf,Furniture,West,5,120.81,0.0,Debit Card
+ORD-000682,2025-06-22,CUST-0178,P4001,Leather Wallet,  Accessories ,south,2,29.69,0.0,Net Banking
+ORD-000605,2024-10-01,CUST-0145,P2005,Coffee Table,Furniture,East,1,95.89,0.15,Credit Card
+ORD-000142,2025-06-22,CUST-0106,P2004,Filing Cabinet,Furniture,East,3,151.12,0.15,Cash
+ORD-000034,2024-03-12,CUST-0248,P3001,,Clothing,East,8,15.71,0.0,UPI
+ORD-000204,2024/01/27,CUST-0023,P2004,Filing Cabinet,fURNITURE,south,2,154.42,0.0,Credit Card
+ORD-000621,2024-10-16,CUST-0177,P1006,Bluetooth Speaker,Electronics,East,1,57.23,0.2,PayPal
+ORD-000629,2025-03-20,CUST-0016,P1005,USB-C Hub,Electronics,South,3,39.63,0.1,Credit Card
+ORD-000236,2024-01-10,CUST-0003,P4005,Laptop Sleeve,ACCESSORIES,east,1,21.60,0.2,Credit Card
+ORD-000437,2025-02-18,CUST-0199,P2004,Filing Cabinet,Furniture,North,4,149.31,0.0,PayPal
+ORD-000189,2024-11-16,CUST-0106,P1001,Wireless Mouse,Electronics,North,3,25.12,0.1,Debit Card
+ORD-000319,2025-04-12,CUST-0244,P3003,Winter Jacket,Clothing,South,2,129.78,0.15,Credit Card
+ORD-000590,2024-05-01,CUST-0058,P4006,Water Bottle,Accessories,East,1,12.57,0.1,Debit Card
+ORD-000559,2024-02-24,CUST-0213,P1006,Bluetooth Speaker,Electronics,North,1,58.31,0.0,PayPal
+ORD-000118,2024-04-13,CUST-0130,P4004,Sunglasses,aCCESSORIES,east,3,76.27,0.0,PayPal
+ORD-000391,2025-03-28,CUST-0079,P1001,Wireless Mouse,Electronics,South,4,23.74,0.15,UPI
+ORD-000586,2024-03-25,CUST-0029,P1005,USB-C Hub,Electronics,North,1,39.76,0.0,Cash
+ORD-000518,2025-04-08,CUST-0127,P4005,Laptop Sleeve,Accessories,North,2,22.28,0.05,Cash
+ORD-000429,2025-06-28,CUST-0023,P4005,Laptop Sleeve,Accessories,North,1,22.25,0.15,Cash
+ORD-000306,2024-02-19,CUST-0170,P1004,Noise Cancelling Headphones,Electronics,North,2,197.84,0.25,Credit Card
+ORD-000430,2024-03-04,CUST-0161,P1001,Wireless Mouse,Electronics,North,1,26.11,0.2,Net Banking
+ORD-000643,2024-05-21,CUST-0130,P4006,Water Bottle,Accessories,East,1,12.84,0.0,Net Banking
+ORD-000524,2025-04-07,CUST-0159,P3003,Winter Jacket,Clothing,South,8,124.49,0.0,PayPal
+ORD-000324,2024-09-11,CUST-0071,P1005,USB-C Hub,Electronics,South,3,40.80,0.05,UPI
+ORD-000359,2024-06-02,CUST-0156,P1002,Mechanical Keyboard,eLECTRONICS,  North ,1,93.61,0.2,Net Banking
+ORD-000392,2024-10-20,CUST-0121,P2003,Bookshelf,Furniture,South,5,120.57,0.2,PayPal
+ORD-000580,2025-01-06,CUST-0122,P4002,Backpack,ACCESSORIES,eAST,4,52.43,0.0,UPI
+ORD-000191,2024-12-26,CUST-0044,P3006,Formal Shirt,Clothing,North,2,36.71,0.0,Cash
+ORD-000239,2024-09-11,CUST-0142,P1001,Wireless Mouse,Electronics,East,1,25.61,0.05,PayPal
+ORD-000601,2024-01-30,CUST-0021,P3003,Winter Jacket,Clothing,South,1,134.87,0.0,PayPal
+ORD-000027,2024-11-02,CUST-0239,P1004,Noise Cancelling Headphones,electronics,eAST,1,204.34,0.05,Debit Card
+ORD-000646,2024-03-27,,P1002,Mechanical Keyboard,Electronics,South,1,89.91,0.0,UPI
+ORD-000278,2025-05-06,CUST-0052,P2003,Bookshelf,Furniture,North,1,125.71,0.2,Debit Card
+ORD-000665,2024-08-17,CUST-0013,P2004,Filing Cabinet,  Furniture ,NORTH,1,141.63,0.0,Net Banking
+ORD-000422,2024-09-05,CUST-0019,P4001,Leather Wallet,Accessories,North,2,28.76,0.15,Net Banking
+ORD-000140,2024-03-30,CUST-0208,P1003,27-inch Monitor,Electronics,East,3,254.27,0.15,UPI
+ORD-000127,2024-01-17,CUST-0162,P3002,Denim Jeans,Clothing,South,10,50.81,0.0,Debit Card
+ORD-000099,2025-03-15,CUST-0217,P3006,Formal Shirt,Clothing,East,4,33.34,0.15,Cash
+ORD-000136,2024/02/01,CUST-0037,P1005,USB-C Hub,Electronics,West,1,41.75,0.25,PayPal
+ORD-000686,2024-10-28,N/A,P2001,Office Chair,Furniture,South,1,176.02,0.1,Cash
+ORD-000226,2024-09-26,CUST-0090,P1004,Noise Cancelling Headphones,Electronics,West,4,205.00,0.15,Credit Card
+ORD-000593,2024-01-06,CUST-0065,P3001,Cotton T-Shirt,clothing,sOUTH,5,15.25,0.0,Net Banking
+ORD-000096,2024-11-16,CUST-0110,P1005,USB-C Hub,Electronics,South,1,40.70,0.0,UPI
+ORD-000221,2024-05-21,CUST-0148,P3006,Formal Shirt,Clothing,South,10,35.67,0.0,Debit Card
+ORD-000107,2024-01-22,CUST-0248,P4005,Laptop Sleeve,Accessories,South,4,23.43,0.05,Cash
+ORD-000320,2024-01-03,CUST-0088,P3006,Formal Shirt,Clothing,South,3,33.73,0.0,PayPal
+ORD-000228,2024-05-18,CUST-0247,P4003,Wrist Watch,Accessories,East,3,154.92,0.25,Net Banking
+ORD-000081,2025-01-25,CUST-0147,P1001,Wireless Mouse,eLECTRONICS,  South ,4,26.02,0.1,UPI
+ORD-000584,2024-06-13,CUST-0179,P4002,Backpack,Accessories,North,1,56.25,0.0,Credit Card
+ORD-000084,2024-06-17,CUST-0066,P2003,,furniture,WEST,1,123.64,0.05,Net Banking
+ORD-000220,2024-03-27,CUST-0173,P1004,Noise Cancelling Headphones,Electronics,North,2,193.18,0.2,Credit Card
+ORD-000446,2024-07-31,CUST-0013,P1005,USB-C Hub,electronics,nORTH,1,39.28,0.0,Credit Card
+ORD-000072,2025-06-05,CUST-0181,P3003,Winter Jacket,Clothing,North,4,133.70,0.2,Net Banking
+ORD-000541,02-05-2024,CUST-0096,P2002,Standing Desk,Furniture,South,1,414.54,0.0,Cash
+ORD-000692,2025-02-04,CUST-0098,P3001,Cotton T-Shirt,Clothing,North,2,14.52,0.25,Net Banking
+ORD-000326,2025-06-30,CUST-0074,P3005,Hoodie,Clothing,West,3,38.09,0.05,Net Banking
+ORD-000662,2025-05-27,CUST-0127,P4004,Sunglasses,ACCESSORIES,north,8,80.94,0.05,Debit Card
+ORD-000478,2024-07-03,CUST-0117,P3001,Cotton T-Shirt,Clothing,South,1,14.58,0.25,Cash
+ORD-000010,2025-02-12,CUST-0093,P1003,27-inch Monitor,Electronics,North,1,255.37,0.0,Debit Card
+ORD-000509,2025-05-26,CUST-0157,P2005,Coffee Table,Furniture,West,10,100.18,0.05,PayPal
+ORD-000205,2024-09-05,CUST-0147,P1005,USB-C Hub,Electronics,South,1,39.03,0.0,PayPal
+ORD-000080,2025-04-15,CUST-0066,P4004,Sunglasses,ACCESSORIES,  East ,10,75.63,0.1,Net Banking
+ORD-000448,2025-01-23,CUST-0210,P1003,27-inch Monitor,Electronics,North,5,248.27,0.15,Net Banking
+ORD-000115,2024-12-12,CUST-0174,P2004,Filing Cabinet,Furniture,East,1,146.52,0.15,PayPal
+ORD-000320,2024-01-03,CUST-0088,P2003,Bookshelf,Furniture,South,5,118.48,0.25,PayPal
+ORD-000087,2025-02-22,CUST-0030,P3004,Running Shoes,Clothing,North,2,81.26,0.2,Credit Card
+ORD-000130,2024-05-16,CUST-0012,P1006,Bluetooth Speaker,electronics,SOUTH,3,58.79,0.0,UPI
+ORD-000062,2025-04-06,NULL,P4001,Leather Wallet,Accessories,South,1,30.37,0.05,Cash
+ORD-000605,2024-10-01,CUST-0145,P4002,Backpack,Accessories,East,3,57.59,0.0,Credit Card
+ORD-000380,2025-01-08,CUST-0219,P1005,USB-C Hub,Electronics,South,4,41.86,0.1,Net Banking
+ORD-000005,2024-07-15,CUST-0181,P2003,Bookshelf,null,North,5,125.81,0.2,PayPal
+ORD-000449,2024-04-21,CUST-0147,P1003,27-inch Monitor,Electronics,East,8,248.59,0.1,PayPal
+ORD-000320,2024-01-03,CUST-0088,P3005,Hoodie,Clothing,South,1,39.01,0.2,PayPal
+ORD-000067,2024-10-11,CUST-0047,P1003,27-inch Monitor,Electronics,West,3,257.91,0.1,Net Banking
+ORD-000693,2024-11-07,CUST-0024,P1002,Mechanical Keyboard,Electronics,North,1,92.93,0.05,PayPal
+ORD-000494,2024-09-21,CUST-0245,P3004,Running Shoes,Clothing,West,2,88.55,0.25,Debit Card
+ORD-000134,not_a_date,CUST-0083,P3003,Winter Jacket,Clothing,North,5,128.32,0.2,UPI
+ORD-000289,2024-06-26,CUST-0050,P2001,Office Chair,Furniture,West,3,178.22,0.1,Debit Card
+ORD-000004,2024-09-27,CUST-0207,P3001,Cotton T-Shirt,Clothing,North,3,14.36,0.15,Net Banking
+ORD-000661,2025-05-19,CUST-0232,P1007,Smartphone Stand,Electronics,East,1,16.24,0.1,Cash
+ORD-000236,2024-01-10,CUST-0003,P3002,Denim Jeans,Clothing,East,1,49.88,0.0,Credit Card
+ORD-000630,2024-11-17,CUST-0233,P4002,Backpack,  Accessories ,south,5,54.46,0.25,UPI
+ORD-000039,05-04-2024,CUST-0210,P2001,Office Chair,  Furniture ,WEST,10,172.69,0.0,Debit Card
+ORD-000283,2024-05-03,CUST-0244,P1006,Bluetooth Speaker,Electronics,East,3,56.30,0.05,Debit Card
+ORD-000070,2024-10-21,CUST-0113,P4003,Wrist Watch,Accessories,West,1,151.62,0.0,Net Banking
+ORD-000558,2024-10-06,CUST-0194,P3004,Running Shoes,Clothing,East,1,81.52,0.25,PayPal
+ORD-000438,2024-09-08,N/A,P3001,Cotton T-Shirt,Clothing,South,1,15.01,0.1,PayPal
+ORD-000284,2025/02/01,CUST-0143,P3005,Hoodie,Clothing,South,3,,0.2,UPI
+ORD-000674,2024-12-05,CUST-0219,P3002,Denim Jeans,cLOTHING,EAST,4,48.30,0.0,UPI
+ORD-000484,2025-05-11,CUST-0022,P2002,Standing Desk,Furniture,North,1,433.97,0.0,Credit Card
+ORD-000687,2024-07-14,CUST-0181,P3006,Formal Shirt,  Clothing ,EAST,4,34.89,0.0,Debit Card
+ORD-000366,2025-06-17,CUST-0074,P1006,Bluetooth Speaker,Electronics,East,1,59.83,0.1,Cash
+ORD-000412,2024-12-26,CUST-0232,P3002,Denim Jeans,Clothing,South,3,49.64,0.05,UPI
+ORD-000251,2024-12-09,CUST-0001,P4006,Water Bottle,null,East,1,12.48,0.25,Net Banking
+ORD-000566,2024-09-30,CUST-0006,P2004,Filing Cabinet,Furniture,East,2,147.18,0.25,Cash
+ORD-000417,2024-12-08,CUST-0090,P1004,Noise Cancelling Headphones,Electronics,West,3,206.88,1.5,Net Banking
+ORD-000220,2024-03-27,,P1004,Noise Cancelling Headphones,Electronics,NORTH,2,193.18,0.2,Credit Card
+ORD-000408,2024-02-20,CUST-0094,P1007,Smartphone Stand,Electronics,North,4,15.73,0.25,PayPal
+ORD-000059,2024-08-20,CUST-0093,P2002,Standing Desk,Furniture,North,1,434.91,0.0,Credit Card
+ORD-000480,2025-06-23,NULL,P1003,27-inch Monitor,Electronics,West,1,249.58,0.0,UPI
+ORD-000144,2024-12-20,CUST-0243,P2002,Standing Desk,Furniture,West,-3,434.79,0.1,UPI
+ORD-000563,2024/09/26,N/A,P2005,Coffee Table,Furniture,East,1,97.22,0.15,Net Banking
+ORD-000549,2024-05-01,CUST-0233,P1001,Wireless Mouse,Electronics,North,8,25.63,0.05,Credit Card
+ORD-000543,2025-06-10,CUST-0050,P1006,Bluetooth Speaker,,East,2,57.65,-0.1,Debit Card
+ORD-000067,2024-10-11,CUST-0047,P3004,Running Shoes,Clothing,West,0,84.25,0.0,Net Banking
+ORD-000247,2024-08-21,CUST-0190,P1001,,Electronics,South,8,23.86,0.0,Credit Card
+ORD-000336,2025-06-30,CUST-0002,P1007,,Electronics,East,2,15.37,0.2,Debit Card
+ORD-000527,2024-05-31,CUST-0091,P1006,Bluetooth Speaker,Electronics,North,1,59.21,0.0,Debit Card
+ORD-000568,2024-07-25,CUST-0128,P1007,Smartphone Stand,Electronics,East,8,15.96,0.0,Credit Card
+ORD-000630,2024-11-17,CUST-0233,P4005,Laptop Sleeve,Accessories,South,1,23.11,0.15,UPI
+ORD-000163,2025-05-05,CUST-0055,P3006,Formal Shirt,Clothing,North,3,35.68,0.05,Cash
+ORD-000084,2024-06-17,CUST-0066,P4006,Water Bottle,,West,10,13.46,0.15,Net Banking
+ORD-000575,2024-06-12,CUST-0070,P2002,Standing Desk,Furniture,North,1,431.18,0.25,UPI
+ORD-000589,2024-04-01,CUST-0246,P4005,Laptop Sleeve,Accessories,South,8,22.55,15,Cash
+ORD-000231,2024-08-11,CUST-0248,P2004,Filing Cabinet,Furniture,South,2,153.89,0.25,Debit Card
+ORD-000301,2025-05-16,CUST-0202,P3002,Denim Jeans,Clothing,East,8,50.66,0.2,Credit Card
+ORD-000625,2024-02-21,CUST-0238,P4002,Backpack,Accessories,West,1,57.25,0.25,Net Banking
+ORD-000652,2024-04-13,CUST-0064,P4001,Leather Wallet,Accessories,East,2,30.84,0.0,PayPal
+ORD-000644,2025-03-29,CUST-0189,P1001,Wireless Mouse,Electronics,North,8,25.35,0.0,Credit Card
+ORD-000524,2025-04-07,CUST-0159,P1007,Smartphone Stand,  Electronics ,  South ,3,,0.25,PayPal
+ORD-000454,2025-02-09,CUST-0186,P2004,Filing Cabinet,FURNITURE,EAST,-3,153.43,0.25,Credit Card
+ORD-000471,2024-05-30,CUST-0170,P4002,Backpack,Accessories,North,3,,0.15,Cash
+ORD-000633,2024-03-02,CUST-0216,P1004,Noise Cancelling Headphones,Electronics,South,1,190.48,0.1,PayPal
+ORD-000688,2025-02-11,CUST-0059,P2001,Office Chair,Furniture,North,4,179.28,0.25,PayPal
+ORD-000286,2024-02-09,CUST-0102,P1002,Mechanical Keyboard,Electronics,West,2,89.77,0.15,UPI
+ORD-000258,2025-02-18,CUST-0219,P1004,Noise Cancelling Headphones,Electronics,South,1,198.74,0.0,PayPal
+ORD-000354,2025-03-26,CUST-0043,P1005,USB-C Hub,eLECTRONICS,  North ,1,40.59,0.0,Cash
+ORD-000626,2025-01-07,CUST-0086,P3002,Denim Jeans,Clothing,West,1,49.20,0.15,Credit Card
+ORD-000431,2025-03-03,CUST-0062,P3003,Winter Jacket,Clothing,East,4,128.10,0.0,Net Banking
+ORD-000244,2024-02-26,CUST-0080,P1001,Wireless Mouse,ELECTRONICS,  East ,3,25.05,0.0,PayPal
+ORD-000525,2024-10-27,CUST-0107,P3002,Denim Jeans,  Clothing ,  West ,3,49.55,0.15,Cash
+ORD-000594,2024-07-02,CUST-0067,P3003,Winter Jacket,Clothing,North,1,126.64,0.0,Net Banking
+ORD-000245,2025-01-15,CUST-0033,P1004,Noise Cancelling Headphones,Electronics,East,2,196.21,0.1,UPI
+ORD-000572,2025-06-29,CUST-0208,P4003,Wrist Watch,Accessories,East,4,153.69,0.2,Net Banking
+ORD-000575,12-06-2024,CUST-0070,P4004,Sunglasses,Accessories,North,5,81.23,0.15,UPI
+ORD-000618,2024-03-03,CUST-0136,P1003,27-inch Monitor,Electronics,North,5,243.22,0.0,Cash
+ORD-000658,2024-01-03,CUST-0156,P3006,Formal Shirt,Clothing,South,1,36.00,0.0,Credit Card
+ORD-000166,2024-10-19,CUST-0166,P2001,Office Chair,Furniture,North,1,183.27,0.0,Credit Card
+ORD-000576,2024-11-01,CUST-0222,P4004,Sunglasses,Accessories,North,4,78.19,0.05,Net Banking
+ORD-000363,2025-05-10,CUST-0065,P4005,Laptop Sleeve,Accessories,West,5,22.26,0.0,Cash
+ORD-000521,2024-03-23,CUST-0159,P2005,Coffee Table,Furniture,West,1,99.60,0.15,PayPal
+ORD-000223,2025-02-22,CUST-0176,P1006,Bluetooth Speaker,Electronics,South,1,56.24,0.25,PayPal
+ORD-000041,2024-05-16,CUST-0206,P4002,Backpack,Accessories,South,2,55.61,0.25,Cash
+ORD-000324,2024-09-11,CUST-0071,P3003,Winter Jacket,Clothing,South,2,0,0.15,UPI
+ORD-000102,2024-02-23,CUST-0040,P1003,27-inch Monitor,Electronics,North,2,243.33,0.25,Cash
+ORD-000113,2025-06-03,CUST-0099,P4006,Water Bottle,Accessories,South,1,13.52,0.25,Cash
+ORD-000429,2025-06-28,CUST-0023,P1001,Wireless Mouse,Electronics,North,10,24.63,0.1,Cash
+ORD-000519,2024-06-14,CUST-0181,P1001,Wireless Mouse,Electronics,South,3,24.90,0.0,Cash
+ORD-000296,2024-02-06,CUST-0150,P4006,Water Bottle,Accessories,East,2,13.52,0.0,Cash
+ORD-000292,2024-07-30,CUST-0069,P4004,Sunglasses,Accessories,East,3,75.12,0.0,Cash
+ORD-000385,2024-03-21,CUST-0098,P1005,USB-C Hub,ELECTRONICS,EAST,2,40.51,0.2,Net Banking
+ORD-000046,2024-02-21,CUST-0067,P2004,Filing Cabinet,Furniture,South,4,152.89,0.2,Debit Card
+ORD-000430,2024-03-04,CUST-0161,P1001,Wireless Mouse,Electronics,North,1,26.11,0.2,Net Banking
+ORD-000016,2024-11-15,CUST-0103,P3005,Hoodie,Clothing,West,1,39.80,0.0,PayPal
+ORD-000362,2025-03-12,CUST-0167,P4001,Leather Wallet,Accessories,East,2,29.73,0.15,UPI
+ORD-000547,2024-06-25,CUST-0182,P1005,USB-C Hub,Electronics,South,2,38.79,0.0,PayPal
+ORD-000264,2024-07-03,CUST-0007,P2002,Standing Desk,Furniture,South,2,410.06,0.05,Debit Card
+ORD-000337,2024-01-25,CUST-0118,P1002,Mechanical Keyboard,Electronics,East,1,87.09,0.05,Credit Card
+ORD-000586,2024-03-25,CUST-0029,P4003,Wrist Watch,Accessories,North,4,155.19,0.15,Cash
+ORD-000334,2025/01/25,CUST-0235,P3006,Formal Shirt,Clothing,East,2,35.77,0.15,Credit Card
+ORD-000609,2025-02-06,CUST-0012,P4001,Leather Wallet,Accessories,North,2,30.66,0.1,PayPal
+ORD-000168,2024/07/16,CUST-0208,P4003,Wrist Watch,Accessories,North,1,153.27,0.1,Debit Card
+ORD-000464,2025-04-01,CUST-0158,P4004,Sunglasses,Accessories,South,4,79.54,0.25,UPI
+ORD-000518,2025-04-08,CUST-0127,P4006,Water Bottle,Accessories,North,2,13.18,0.1,Cash
+ORD-000293,2024-08-17,,P4003,Wrist Watch,Accessories,East,3,146.27,0.2,UPI
+ORD-000663,2025-06-19,CUST-0187,P1001,Wireless Mouse,Electronics,East,3,25.43,0.25,Debit Card
+ORD-000686,2024-10-28,CUST-0216,P2002,Standing Desk,Furniture,South,1,411.77,0.05,Cash
+ORD-000426,19-06-2025,CUST-0193,P4005,Laptop Sleeve,accessories,  North ,1,21.94,0.1,Net Banking
+ORD-000364,2024-08-23,CUST-0115,P3005,Hoodie,Clothing,East,2,39.59,0.0,Debit Card
+ORD-000105,2024-10-23,CUST-0084,P1006,Bluetooth Speaker,Electronics,North,2,58.29,0.15,Net Banking
+ORD-000179,2025-04-19,CUST-0173,P2001,Office Chair,Furniture,East,1,174.48,0.0,Net Banking
+ORD-000672,2024-11-14,CUST-0150,P2003,Bookshelf,Furniture,West,10,121.23,0.0,Debit Card
+ORD-000359,2024-06-02,CUST-0156,P3006,Formal Shirt,Clothing,North,1,35.07,0.2,Net Banking
+ORD-000153,2024-05-01,CUST-0033,P2004,Filing Cabinet,Furniture,West,1,149.86,0.2,Net Banking
+ORD-000211,2025-03-09,CUST-0203,P3004,Running Shoes,Clothing,South,5,84.79,0.2,Net Banking
+ORD-000506,2024-10-07,CUST-0037,P1006,Bluetooth Speaker,Electronics,East,2,60.72,0.0,Debit Card
+ORD-000080,2025-04-15,NULL,P1006,Bluetooth Speaker,Electronics,East,2,57.23,0.05,Net Banking
+ORD-000277,2024-06-09,CUST-0014,P3006,Formal Shirt,Clothing,North,2,33.78,0.1,Debit Card
+ORD-000045,2024-12-10,CUST-0172,P1005,USB-C Hub,Electronics,East,5,38.29,0.0,Net Banking
+ORD-000099,2025-03-15,CUST-0217,P4003,Wrist Watch,  Accessories ,east,4,142.88,0.1,Cash
+ORD-000196,2024-04-05,N/A,P4003,Wrist Watch,Accessories,South,2,142.63,0.2,Cash
+ORD-000345,2024-10-10,CUST-0216,P3003,Winter Jacket,Clothing,South,4,124.82,0.0,PayPal
+ORD-000177,2025-01-18,CUST-0229,P4004,Sunglasses,Accessories,South,1,82.67,0.15,Net Banking
+ORD-000532,2024-08-13,CUST-0115,P4003,Wrist Watch,Accessories,South,4,145.42,0.1,UPI
+ORD-000418,2025-01-26,CUST-0014,P4001,Leather Wallet,Accessories,South,1,28.94,0.0,Credit Card
+ORD-000462,2024-01-16,CUST-0246,P3006,Formal Shirt,Clothing,East,1,34.47,0.1,Cash
+ORD-000495,2024-04-21,CUST-0037,P4003,Wrist Watch,Accessories,South,1,144.08,0.0,Net Banking
+ORD-000594,2024-07-02,CUST-0067,P1003,27-inch Monitor,null,North,1,255.17,0.1,Net Banking
+ORD-000681,2024-08-02,CUST-0187,P1003,27-inch Monitor,Electronics,North,1,248.96,0.15,Net Banking
+ORD-000448,2025-01-23,CUST-0210,P2003,Bookshelf,Furniture,North,3,120.31,0.0,Net Banking
+ORD-000619,2025-05-21,CUST-0160,P3002,Denim Jeans,Clothing,West,1,47.59,0.15,UPI
+ORD-000641,2025-05-12,CUST-0008,P1002,Mechanical Keyboard,Electronics,East,1,92.86,0.15,Debit Card
+ORD-000095,2024-04-11,CUST-0204,P3006,Formal Shirt,clothing,EAST,5,36.27,0.2,PayPal
+ORD-000377,2025-05-04,CUST-0241,P4004,Sunglasses,Accessories,South,1,81.18,0.25,Cash
+ORD-000667,25-02-2024,CUST-0211,P1004,Noise Cancelling Headphones,Electronics,South,4,205.14,0.0,Debit Card
+ORD-000560,2024-03-19,CUST-0170,P2003,Bookshelf,Furniture,East,1,123.70,0.0,Net Banking
+ORD-000318,2024-04-15,NULL,P1003,,Electronics,South,3,256.27,0.05,Cash
+ORD-000041,2024-05-16,CUST-0206,P3003,Winter Jacket,Clothing,South,1,132.25,0.25,Cash
+ORD-000653,2024-09-08,CUST-0138,P1001,Wireless Mouse,Electronics,West,3,25.77,0.0,Cash
+ORD-000117,2024-05-10,CUST-0172,P4003,Wrist Watch,Accessories,East,1,145.37,0.1,PayPal
+ORD-000481,2024-11-15,CUST-0157,P1001,Wireless Mouse,Electronics,North,2,24.91,0.15,UPI
+ORD-000119,2025-03-24,CUST-0012,P4002,Backpack,Accessories,South,2,53.94,0.05,PayPal
+ORD-000211,2025-03-09,CUST-0203,P3001,Cotton T-Shirt,Clothing,South,3,14.40,0.0,Net Banking
+ORD-000056,2025-04-03,CUST-0203,P4005,Laptop Sleeve,Accessories,North,2,21.91,0.15,UPI
+ORD-000663,2025-06-19,CUST-0187,P4005,Laptop Sleeve,Accessories,East,3,21.37,0.0,Debit Card
+ORD-000095,2024-04-11,CUST-0204,P4006,Water Bottle,Accessories,East,2,12.78,0.0,PayPal
+ORD-000084,2024-06-17,CUST-0066,P2004,Filing Cabinet,Furniture,West,1,142.90,0.0,Net Banking
+ORD-000149,2024-04-09,CUST-0013,P2001,Office Chair,Furniture,North,10,173.45,0.25,Net Banking
+ORD-000475,2025-01-25,CUST-0112,P1005,USB-C Hub,Electronics,South,8,38.70,0.2,PayPal
+ORD-000086,27-04-2025,CUST-0007,P4002,Backpack,null,East,4,53.46,0.1,Cash
+ORD-000167,2025-02-10,CUST-0202,P2003,Bookshelf,Furniture,South,8,117.57,0.15,PayPal
+ORD-000426,2025/06/19,CUST-0193,P1005,USB-C Hub,Electronics,North,2,40.74,0.0,Net Banking
+ORD-000674,2024-12-05,CUST-0219,P2004,Filing Cabinet,Furniture,East,3,148.94,0.05,UPI
+ORD-000604,2024-05-03,CUST-0077,P2003,Bookshelf,Furniture,South,1,121.23,0.15,Net Banking
+ORD-000289,2024-06-26,CUST-0050,P1002,Mechanical Keyboard,Electronics,West,2,88.81,0.0,Debit Card
+ORD-000479,2025-01-10,CUST-0009,P2005,Coffee Table,furniture,wEST,-3,95.17,0.0,Cash
+ORD-000304,2025-06-16,CUST-0153,P2004,Filing Cabinet,Furniture,South,two,155.68,0.05,Net Banking
+ORD-000395,2024-07-09,CUST-0249,P3003,Winter Jacket,Clothing,North,1,131.93,0.25,UPI
+ORD-000183,2025-03-13,CUST-0143,P3005,Hoodie,Clothing,South,4,39.19,0.0,UPI
+ORD-000603,2025-02-12,CUST-0066,P1007,Smartphone Stand,Electronics,North,1,abc,0.0,Net Banking
+ORD-000378,2024-11-19,CUST-0177,P4001,Leather Wallet,Accessories,North,5,28.79,0.0,PayPal
+ORD-000222,2025-05-16,CUST-0074,P4002,Backpack,Accessories,North,2,57.00,0.05,UPI
+ORD-000150,2025-05-25,CUST-0226,P3001,,Clothing,South,1,15.00,0.15,Credit Card
+ORD-000079,2024-05-29,CUST-0063,P1006,Bluetooth Speaker,Electronics,South,3,59.65,0.25,Cash
+ORD-000463,2024/09/07,CUST-0044,P3006,Formal Shirt,Clothing,North,5,33.42,0.0,Cash
+ORD-000019,2024-04-10,CUST-0016,P1004,Noise Cancelling Headphones,Electronics,South,1,193.35,0.0,UPI
+ORD-000032,2024-08-30,CUST-0222,P1006,Bluetooth Speaker,eLECTRONICS,NORTH,1,57.62,0.0,Debit Card
+ORD-000145,2024-06-24,CUST-0169,P4001,Leather Wallet,Accessories,East,1,28.61,0.1,Cash
+ORD-000341,2024-08-04,CUST-0106,P1006,Bluetooth Speaker,Electronics,West,1,57.35,0.0,Cash
+ORD-000106,2025-04-15,CUST-0236,P4001,Leather Wallet,Accessories,North,1,29.70,0.2,UPI
+ORD-000644,2025-03-29,CUST-0189,P1001,Wireless Mouse,Electronics,North,8,25.35,0.0,Credit Card
+ORD-000634,2024-01-06,CUST-0117,P4001,Leather Wallet,Accessories,South,2,31.17,0.05,Debit Card
+ORD-000158,2025-02-26,CUST-0177,P4006,Water Bottle,Accessories,North,-1,13.64,0.0,Cash
+ORD-000675,2025-04-22,CUST-0160,P4006,Water Bottle,ACCESSORIES,NORTH,1,12.81,0.0,Net Banking
+ORD-000488,2025-02-03,CUST-0122,P1001,,Electronics,North,3,26.06,0.0,Cash
+ORD-000238,2024-05-23,CUST-0193,P3002,,  Clothing ,  North ,1,49.06,0.0,PayPal
+ORD-000042,2024-09-01,CUST-0071,P2002,Standing Desk,Furniture,South,1,421.96,0.0,PayPal
+ORD-000203,2025-03-31,CUST-0093,P1006,Bluetooth Speaker,Electronics,East,2,58.59,0.0,Credit Card
+ORD-000458,31/31/2024,CUST-0029,P1003,27-inch Monitor,Electronics,South,5,-15.00,0.0,Credit Card
+ORD-000396,2024-08-10,CUST-0088,P4005,Laptop Sleeve,Accessories,South,2,21.96,0.0,Net Banking
+ORD-000390,2024-11-29,CUST-0222,P3003,Winter Jacket,Clothing,South,2,130.69,0.1,Cash
+ORD-000460,2024/03/30,CUST-0086,P4004,Sunglasses,aCCESSORIES,south,4,80.94,0.05,Credit Card
+ORD-000450,2025-03-13,NULL,P4002,Backpack,Accessories,West,2,54.19,0.25,UPI
+ORD-000414,2024/10/09,NULL,P4001,Leather Wallet,Accessories,East,two,28.95,0.0,Cash
+ORD-000625,2024-02-21,CUST-0238,P1004,Noise Cancelling Headphones,Electronics,West,3,190.36,0.05,Net Banking
+ORD-000416,2024-11-28,CUST-0203,P4001,Leather Wallet,Accessories,South,1,30.68,0.0,Net Banking
+ORD-000459,2024-12-01,CUST-0037,P4004,Sunglasses,Accessories,East,1,80.69,0.0,Credit Card
+ORD-000348,2024-10-24,CUST-0035,P2005,Coffee Table,  Furniture ,south,4,99.02,0.0,Cash
+ORD-000324,2024-09-11,CUST-0071,P3002,Denim Jeans,Clothing,South,3,48.54,0.0,UPI
+ORD-000642,2024-03-10,CUST-0223,P4001,Leather Wallet,Accessories,North,2,29.85,0.0,Net Banking
+ORD-000632,31/31/2024,CUST-0006,P2001,Office Chair,Furniture,North,2,184.95,0.0,Cash
+ORD-000081,2025-01-25,CUST-0147,P4004,Sunglasses,Accessories,South,4,81.18,0.05,UPI
+ORD-000630,2024-11-17,CUST-0233,P1005,USB-C Hub,Electronics,South,4,40.74,0.2,UPI
+ORD-000088,2025-04-09,CUST-0095,P3002,Denim Jeans,Clothing,East,8,51.66,0.1,PayPal
+ORD-000058,2024-08-09,CUST-0190,P3005,Hoodie,Clothing,South,4,40.38,0.1,PayPal
+ORD-000064,2024-05-25,CUST-0019,P4001,Leather Wallet,Accessories,North,2,31.25,0.1,UPI
+ORD-000683,2024-07-31,CUST-0057,P3001,Cotton T-Shirt,Clothing,West,2,14.70,0.15,Net Banking
+ORD-000311,2025-04-20,CUST-0013,P2003,Bookshelf,Furniture,North,3,123.61,0.0,Debit Card
+ORD-000548,2024-03-20,CUST-0005,P1004,Noise Cancelling Headphones,Electronics,East,2,190.18,0.25,Net Banking
+ORD-000400,2024/11/28,CUST-0004,P3001,Cotton T-Shirt,Clothing,North,two,15.42,0.25,UPI
+ORD-000651,2024-03-03,CUST-0082,P1001,Wireless Mouse,Electronics,South,5,24.76,0.1,Net Banking
+ORD-000519,2024-06-14,CUST-0181,P3003,Winter Jacket,Clothing,South,-3,132.74,0.0,Cash
+ORD-000256,02-05-2024,CUST-0024,P4005,Laptop Sleeve,ACCESSORIES,nORTH,4,22.93,0.15,PayPal
+ORD-000112,2024-06-03,CUST-0113,P2002,Standing Desk,Furniture,North,1,409.96,0.25,Net Banking
+ORD-000644,2025-03-29,CUST-0189,P4005,Laptop Sleeve,Accessories,North,3,22.65,0.0,Credit Card
+ORD-000249,2024-07-02,CUST-0058,P1003,27-inch Monitor,Electronics,West,1,255.81,0.25,Credit Card
+ORD-000562,2024-06-17,CUST-0126,P1004,Noise Cancelling Headphones,Electronics,South,2,199.02,0.2,UPI
+ORD-000459,2024-12-01,CUST-0037,P3005,Hoodie,Clothing,East,1,41.96,0.2,Credit Card
+ORD-000331,2024-09-18,CUST-0002,P2004,Filing Cabinet,Furniture,South,2,149.38,0.0,PayPal
+ORD-000094,2025-04-14,CUST-0165,P3001,Cotton T-Shirt,Clothing,West,2,14.40,0.0,Credit Card
+ORD-000048,2024-06-05,CUST-0062,P1007,Smartphone Stand,Electronics,North,2,15.44,,PayPal
+ORD-000075,2024-08-27,CUST-0220,P3004,Running Shoes,Clothing,East,0,86.23,0.0,Credit Card
+ORD-000376,2025-01-15,CUST-0159,P3004,Running Shoes,CLOTHING,SOUTH,1,88.59,0.05,Cash
+ORD-000273,2024-08-31,CUST-0089,P1003,27-inch Monitor,Electronics,West,1,253.23,0.0,Debit Card
+ORD-000294,2024-04-14,CUST-0002,P3006,Formal Shirt,Clothing,South,3,33.46,0.1,PayPal
+ORD-000430,2024-03-04,CUST-0161,P3006,Formal Shirt,Clothing,North,2,,0.05,Net Banking
+ORD-000140,2024-03-30,CUST-0208,P4005,Laptop Sleeve,Accessories,East,1,22.60,0.0,UPI
+ORD-000116,2024-11-13,N/A,P4002,Backpack,Accessories,East,2,56.14,0.15,PayPal
+ORD-000077,2024-03-23,CUST-0219,P3001,Cotton T-Shirt,Clothing,South,2,15.18,0.0,PayPal
+ORD-000339,2024-02-16,CUST-0180,P1004,Noise Cancelling Headphones,null,West,4,195.54,0.25,UPI
+ORD-000286,2024-02-09,CUST-0102,P4006,Water Bottle,Accessories,West,1,13.40,0.25,UPI
+ORD-000533,2024-07-19,CUST-0006,P3005,Hoodie,Clothing,North,-1,41.62,0.2,Net Banking
+ORD-000694,12-03-2024,CUST-0234,P2003,Bookshelf,Furniture,West,1,121.90,0.0,UPI
+ORD-000628,2025-02-23,CUST-0230,P2005,Coffee Table,Furniture,South,3,98.43,0.0,Cash
+ORD-000201,2024-11-30,CUST-0008,P2005,Coffee Table,Furniture,East,1,99.53,0.2,Net Banking
+ORD-000342,2024-02-25,CUST-0218,P3006,Formal Shirt,Clothing,East,1,33.50,0.05,Cash
+ORD-000279,2025-04-27,,P3006,Formal Shirt,Clothing,WEST,2,34.60,0.0,UPI
+ORD-000242,2025-06-02,CUST-0074,P4005,Laptop Sleeve,Accessories,East,2,21.99,0.05,Cash
+ORD-000406,2024-11-24,CUST-0185,P3005,Hoodie,Clothing,North,1,39.28,0.0,Cash
+ORD-000502,2024-01-17,CUST-0010,P1002,Mechanical Keyboard,Electronics,South,3,86.55,0.25,UPI
+ORD-000285,2024-04-18,CUST-0145,P3002,Denim Jeans,Clothing,East,1,47.68,0.2,UPI
+ORD-000002,2024-02-02,CUST-0008,P1001,Wireless Mouse,Electronics,North,3,25.14,0.2,Debit Card
+ORD-000293,2024-08-17,CUST-0065,P4005,Laptop Sleeve,Accessories,East,5,21.98,0.25,UPI
+ORD-000425,2024-09-05,CUST-0243,P1001,Wireless Mouse,Electronics,East,2,23.80,0.05,Debit Card
+ORD-000615,2025-05-11,CUST-0121,P1007,Smartphone Stand,Electronics,North,-1,15.17,0.15,Net Banking
+ORD-000108,2025-03-22,CUST-0151,P2003,Bookshelf,Furniture,South,4,122.94,0.0,Credit Card
+ORD-000019,2024-04-10,CUST-0016,P2001,Office Chair,Furniture,South,8,175.04,0.25,UPI
+ORD-000407,2024-02-14,CUST-0214,P1007,Smartphone Stand,Electronics,West,-3,15.47,0.2,Debit Card
+ORD-000126,2024-10-22,CUST-0061,P4003,Wrist Watch,Accessories,South,1,154.40,0.25,Credit Card
+ORD-000323,not_a_date,CUST-0188,P4002,Backpack,aCCESSORIES,wEST,5,55.57,0.2,Credit Card
+ORD-000582,2024-09-18,CUST-0078,P1006,Bluetooth Speaker,eLECTRONICS,  North ,5,61.45,0.2,Debit Card
+ORD-000282,2025-05-01,CUST-0147,P3001,Cotton T-Shirt,cLOTHING,WEST,2,15.59,0.0,Net Banking
+ORD-000039,2024-04-05,CUST-0210,P1007,,Electronics,West,2,15.42,0.2,Debit Card
+ORD-000290,2024-02-01,CUST-0062,P3004,Running Shoes,Clothing,South,1,abc,0.1,Cash
+ORD-000249,2024-07-02,CUST-0058,P2003,Bookshelf,Furniture,West,2,122.86,0.25,Credit Card
+ORD-000124,2024-08-17,CUST-0008,P4003,Wrist Watch,Accessories,South,1,154.36,0.25,Credit Card
+ORD-000496,2024-03-15,CUST-0019,P3004,Running Shoes,Clothing,East,5,82.53,0.0,UPI
+ORD-000022,2024-06-07,CUST-0049,P3006,Formal Shirt,clothing,north,1,33.45,0.25,Credit Card
+ORD-000457,2024-11-18,CUST-0182,P2001,Office Chair,Furniture,North,1,176.70,0.1,Net Banking
+ORD-000261,2024/06/25,CUST-0091,P3003,Winter Jacket,Clothing,North,3,133.95,0.05,Debit Card
+ORD-000513,2024-11-29,CUST-0108,P2001,Office Chair,Furniture,North,3,175.89,0.05,PayPal
+ORD-000176,2024-03-11,CUST-0240,P1005,USB-C Hub,Electronics,South,3,41.01,0.2,UPI
+ORD-000275,2024-12-25,CUST-0140,P4003,Wrist Watch,null,South,8,146.91,0.0,Net Banking
+ORD-000165,2024-05-20,CUST-0002,P3004,Running Shoes,Clothing,West,8,84.31,0.15,Debit Card
+ORD-000268,2024-06-28,CUST-0126,P2001,Office Chair,Furniture,North,1,170.41,0.05,Credit Card
+ORD-000321,2024-08-08,CUST-0118,P3002,Denim Jeans,Clothing,West,3,51.35,0.0,Debit Card
+ORD-000059,20-08-2024,CUST-0093,P1005,USB-C Hub,Electronics,North,1,38.13,0.0,Credit Card
+ORD-000062,2025-04-06,CUST-0233,P4002,,Accessories,South,1,abc,0.25,Cash
+ORD-000433,2025-02-27,CUST-0247,P4003,Wrist Watch,Accessories,South,1,146.60,0.0,Net Banking
+ORD-000149,2024-04-09,NULL,P3002,Denim Jeans,Clothing,North,4,52.30,0.15,Net Banking
+ORD-000267,2024-12-26,CUST-0243,P1007,Smartphone Stand,Electronics,East,10,16.01,0.1,Debit Card
+ORD-000137,2025-01-14,CUST-0096,P3005,Hoodie,Clothing,South,-1,39.46,0.0,Credit Card
+ORD-000208,2024-11-03,CUST-0083,P2004,Filing Cabinet,Furniture,East,1,144.20,0.25,PayPal
+ORD-000249,2024-07-02,CUST-0058,P3003,Winter Jacket,Clothing,West,2,122.65,0.1,Credit Card
+ORD-000212,2024-02-15,CUST-0145,P3002,Denim Jeans,Clothing,West,4,49.72,0.0,PayPal
+ORD-000356,2024-05-17,CUST-0162,P1006,Bluetooth Speaker,Electronics,South,8,57.57,0.0,Cash
+ORD-000524,2025-04-07,CUST-0159,P1003,27-inch Monitor,Electronics,South,1,238.72,0.0,PayPal
+ORD-000503,2024-03-14,CUST-0010,P3004,Running Shoes,Clothing,East,1,80.66,0.0,Net Banking
+ORD-000521,2024-03-23,CUST-0159,P3005,Hoodie,Clothing,West,2,41.54,0.0,PayPal
+ORD-000228,2024-05-18,CUST-0247,P2002,Standing Desk,Furniture,East,1,437.64,0.15,Net Banking
+ORD-000636,2025-03-11,CUST-0213,P1005,USB-C Hub,Electronics,South,2,39.86,0.2,Credit Card
+ORD-000343,2025-05-13,CUST-0244,P1004,Noise Cancelling Headphones,electronics,  South ,1,198.52,0.0,Debit Card
+ORD-000553,2025-01-10,CUST-0179,P1006,Bluetooth Speaker,Electronics,East,1,58.45,0.25,Net Banking
+ORD-000030,31/31/2024,CUST-0214,P1005,USB-C Hub,Electronics,South,8,38.12,0.0,Cash
+ORD-000351,2025-02-01,CUST-0121,P4003,Wrist Watch,Accessories,West,2,147.35,0.1,Credit Card
+ORD-000690,2025-01-18,CUST-0036,P4006,Water Bottle,Accessories,East,4,12.35,0.15,Debit Card
+ORD-000131,2024-07-25,CUST-0012,P2003,Bookshelf,Furniture,East,2,120.17,0.1,Credit Card
+ORD-000098,2024-05-05,CUST-0106,P1002,Mechanical Keyboard,null,South,4,93.10,0.05,PayPal
+ORD-000272,2024-07-05,CUST-0155,P4001,Leather Wallet,Accessories,South,1,28.80,0.0,Cash
+ORD-000476,2024/06/06,CUST-0074,P1001,Wireless Mouse,Electronics,West,3,23.92,0.25,PayPal
+ORD-000263,2024-01-20,CUST-0098,P3004,Running Shoes,Clothing,East,1,83.18,0.1,UPI
+ORD-000237,2024-03-11,CUST-0136,P3003,Winter Jacket,Clothing,East,1,131.87,0.2,Cash
+ORD-000390,2024-11-29,CUST-0222,P1005,USB-C Hub,Electronics,South,1,41.58,0.0,Cash
+ORD-000247,2024-08-21,,P2001,Office Chair,Furniture,South,2,186.72,0.2,Credit Card
+ORD-000486,2024-05-28,CUST-0153,P3002,Denim Jeans,Clothing,West,-3,48.68,0.05,Debit Card
+ORD-000576,2024-11-01,CUST-0222,P1003,27-inch Monitor,Electronics,North,8,239.34,0.1,Net Banking
+ORD-000522,2024-09-01,CUST-0139,P4001,Leather Wallet,Accessories,North,-1,29.12,0.15,Net Banking
+ORD-000315,2024-12-12,CUST-0133,P4004,Sunglasses,accessories,south,5,76.22,0.0,PayPal
+ORD-000579,2025-06-30,CUST-0096,P3002,Denim Jeans,Clothing,East,1,49.86,0.0,Credit Card
+ORD-000409,2024-03-03,CUST-0093,P1002,Mechanical Keyboard,Electronics,East,1,93.00,0.0,Net Banking
+ORD-000444,2024/01/04,CUST-0160,P3004,Running Shoes,clothing,east,5,84.87,0.05,Credit Card
+ORD-000492,2024-08-10,CUST-0244,P1003,27-inch Monitor,  Electronics ,east,1,258.86,0.25,Credit Card
+ORD-000350,02-01-2025,,P2002,Standing Desk,Furniture,NORTH,1,423.40,0.15,Net Banking
+ORD-000158,2025-02-26,CUST-0177,P3004,Running Shoes,,North,2,86.42,0.15,Cash
+ORD-000435,2024-07-07,CUST-0219,P1007,Smartphone Stand,electronics,south,8,15.07,0.1,Net Banking
+ORD-000675,2025-04-22,CUST-0160,P2004,Filing Cabinet,Furniture,North,4,147.15,0.0,Net Banking
+ORD-000050,2024-03-18,CUST-0152,P4005,Laptop Sleeve,Accessories,East,two,23.10,0.0,PayPal
+ORD-000329,2024-02-25,CUST-0004,P3003,Winter Jacket,Clothing,East,3,134.31,0.05,Debit Card
+ORD-000521,2024-03-23,CUST-0159,P4004,Sunglasses,Accessories,West,2,77.94,0.0,PayPal
+ORD-000473,2025-02-30,CUST-0104,P3006,Formal Shirt,Clothing,West,2,36.63,0.15,UPI
+ORD-000660,2024-08-14,CUST-0191,P4005,,Accessories,North,3,21.80,0.05,UPI
+ORD-000592,2025-02-11,CUST-0176,P4002,Backpack,Accessories,North,2,57.36,0.0,Net Banking
+ORD-000032,2024-08-30,CUST-0222,P1001,Wireless Mouse,Electronics,North,8,25.58,0.05,Debit Card
+ORD-000581,2024-09-02,CUST-0065,P4005,Laptop Sleeve,Accessories,East,2,23.40,0.05,UPI
+ORD-000314,2025-01-02,CUST-0157,P1005,USB-C Hub,Electronics,North,1,38.14,0.05,PayPal
+ORD-000129,2024-09-16,CUST-0192,P4006,,  Accessories ,  North ,2,13.19,0.15,Credit Card
+ORD-000382,2024-05-17,CUST-0229,P2004,Filing Cabinet,Furniture,West,2,153.25,0.0,Cash
+ORD-000194,2025-05-29,CUST-0209,P1004,Noise Cancelling Headphones,Electronics,East,2,205.79,0.15,Net Banking
+ORD-000552,2024-07-15,CUST-0247,P4006,Water Bottle,Accessories,North,2,12.47,0.25,Cash
+ORD-000331,2024-09-18,CUST-0002,P1002,Mechanical Keyboard,Electronics,South,3,90.86,0.1,PayPal
+ORD-000687,2024-07-14,CUST-0181,P4006,Water Bottle,Accessories,East,2,13.36,0.0,Debit Card
+ORD-000478,2024-07-03,CUST-0117,P2005,Coffee Table,Furniture,South,2,102.43,0.2,Cash
+ORD-000685,2025-01-11,CUST-0206,P1006,Bluetooth Speaker,Electronics,South,1,58.66,0.0,UPI
+ORD-000271,2025-05-13,,P4002,Backpack,Accessories,South,1,56.28,0.0,PayPal
+ORD-000246,2025-06-07,CUST-0093,P1006,Bluetooth Speaker,Electronics,North,2,57.56,0.0,Cash
+ORD-000325,2024-07-01,CUST-0129,P1004,Noise Cancelling Headphones,electronics,  South ,2,204.70,0.2,PayPal
+ORD-000458,2024-06-28,CUST-0029,P3003,,Clothing,South,3,125.00,0.1,Credit Card
+ORD-000034,2024-03-12,CUST-0248,P4004,Sunglasses,Accessories,East,2,81.98,0.1,UPI
+ORD-000294,2024-04-14,CUST-0002,P4003,Wrist Watch,Accessories,South,5,146.41,0.1,PayPal
+ORD-000394,2024-04-23,CUST-0164,P4002,,Accessories,South,1,54.95,0.0,Net Banking
+ORD-000624,2024-12-29,CUST-0197,P1005,USB-C Hub,Electronics,North,3,41.36,0.0,Cash
+ORD-000209,2024-09-05,CUST-0084,P4001,Leather Wallet,Accessories,South,1,29.09,0.0,Net Banking
+ORD-000558,2024-10-06,CUST-0194,P2005,Coffee Table,Furniture,East,2,100.02,0.1,PayPal
+ORD-000506,2024-10-07,CUST-0037,P3006,Formal Shirt,clothing,east,1,34.78,0.0,Debit Card
+ORD-000321,2024-08-08,CUST-0118,P1004,Noise Cancelling Headphones,Electronics,West,3,190.45,0.0,Debit Card
+ORD-000297,2024-07-04,CUST-0076,P3006,Formal Shirt,Clothing,North,1,35.53,0.1,Debit Card
+ORD-000198,2024-02-03,CUST-0046,P1007,Smartphone Stand,Electronics,West,3,15.62,0.2,UPI
+ORD-000031,2025-01-01,CUST-0054,P3006,Formal Shirt,Clothing,East,3,36.33,0.0,PayPal
+ORD-000353,2025-01-20,CUST-0250,P2005,Coffee Table,Furniture,West,3,98.87,0.0,Cash
+ORD-000429,2025-06-28,CUST-0023,P1001,Wireless Mouse,Electronics,North,10,24.63,0.1,Cash
+ORD-000620,2025-03-24,CUST-0060,P4005,Laptop Sleeve,Accessories,South,4,23.16,0.05,Cash
+ORD-000345,2024-10-10,CUST-0216,P3004,Running Shoes,Clothing,South,2,84.04,0.0,PayPal
+ORD-000146,2024-08-03,CUST-0197,P3004,Running Shoes,cLOTHING,east,1,84.89,0.05,Cash
+ORD-000697,2024-07-26,CUST-0129,P1001,Wireless Mouse,  Electronics ,east,4,26.22,0.05,Net Banking
+ORD-000283,2024-05-03,CUST-0244,P1005,,Electronics,East,4,39.23,0.0,Debit Card
+ORD-000397,,N/A,P3003,Winter Jacket,Clothing,East,1,125.74,0.0,Debit Card
+ORD-000398,2025-06-17,CUST-0171,P2003,Bookshelf,Furniture,West,3,125.22,0.0,Net Banking
+ORD-000361,2024-05-17,CUST-0066,P4002,Backpack,Accessories,South,2,56.02,0.0,Debit Card
+ORD-000520,2024-03-13,CUST-0099,P2003,Bookshelf,Furniture,West,8,119.10,0.05,UPI
+ORD-000443,2025-01-22,CUST-0141,P4001,Leather Wallet,  Accessories ,SOUTH,4,28.98,0.0,Debit Card
+ORD-000276,2024-12-16,CUST-0044,P1003,27-inch Monitor,  Electronics ,WEST,3,247.29,0.2,Debit Card
+ORD-000514,2024-02-25,CUST-0228,P3003,Winter Jacket,Clothing,South,1,127.37,0.15,Debit Card
+ORD-000451,2025/05/19,CUST-0207,P2003,Bookshelf,Furniture,North,1,125.74,0.0,Cash
+ORD-000483,2024-03-03,CUST-0162,P4004,Sunglasses,Accessories,South,3,82.87,0.1,Debit Card
+ORD-000240,2025-05-21,CUST-0099,P3005,Hoodie,Clothing,North,2,38.52,0.15,Net Banking
+ORD-000314,2025-01-02,CUST-0157,P4006,Water Bottle,Accessories,North,5,12.97,0.25,PayPal
+ORD-000437,2025-02-18,CUST-0199,P4006,Water Bottle,Accessories,North,2,12.85,0.0,PayPal
+ORD-000043,2024-08-24,CUST-0099,P3002,Denim Jeans,Clothing,East,2,49.53,0.05,PayPal
+ORD-000336,2025-06-30,CUST-0002,P4004,Sunglasses,Accessories,East,3,80.16,0.0,Debit Card
+ORD-000224,2025-05-22,CUST-0141,P3006,Formal Shirt,Clothing,South,4,36.12,0.0,Cash
+ORD-000180,2024-02-02,CUST-0208,P1001,Wireless Mouse,Electronics,East,1,24.26,0.0,Cash
+ORD-000193,2025-05-14,CUST-0005,P1001,Wireless Mouse,Electronics,North,10,25.06,0.0,Cash
+ORD-000074,2024-12-06,CUST-0142,P2004,Filing Cabinet,  Furniture ,  East ,1,154.51,0.2,Net Banking
+ORD-000147,2024-03-02,CUST-0041,P2004,Filing Cabinet,fURNITURE,sOUTH,3,150.59,0.15,Net Banking
+ORD-000405,2024-03-11,,P3006,Formal Shirt,Clothing,NORTH,2,34.83,0.0,UPI
+ORD-000399,2024-09-16,CUST-0124,P1002,Mechanical Keyboard,Electronics,East,1,93.26,0.2,Debit Card
+ORD-000183,2025-03-13,CUST-0143,P4004,Sunglasses,Accessories,South,1,77.57,0.2,UPI
+ORD-000617,2024-02-07,CUST-0125,P4002,Backpack,Accessories,South,5,57.38,0.05,Cash
+ORD-000410,2024-04-13,N/A,P3005,Hoodie,Clothing,North,8,40.62,0.2,Net Banking
+ORD-000691,2024-08-18,CUST-0108,P4005,Laptop Sleeve,Accessories,South,2,22.04,0.0,Net Banking
+ORD-000212,2024-02-15,CUST-0145,P2004,Filing Cabinet,Furniture,West,1,143.13,0.05,PayPal
+ORD-000535,2025-03-01,CUST-0206,P4006,Water Bottle,Accessories,South,10,12.53,0.15,Debit Card
+ORD-000583,2024-02-04,CUST-0071,P3002,Denim Jeans,Clothing,West,2,52.12,0.0,Net Banking
+ORD-000138,2024-01-27,CUST-0189,P3006,Formal Shirt,clothing,north,3,33.65,0.05,Cash
+ORD-000613,2024-05-08,,P1007,Smartphone Stand,Electronics,North,4,15.39,0.05,Credit Card
+ORD-000197,2024-12-05,CUST-0145,P1002,Mechanical Keyboard,Electronics,West,5,87.39,0.25,Credit Card
+ORD-000197,2024-12-05,CUST-0145,P2001,Office Chair,Furniture,West,3,174.90,0.1,Credit Card
+ORD-000254,2024-11-30,CUST-0082,P1007,Smartphone Stand,Electronics,South,1,14.93,0.0,Debit Card
+ORD-000542,2024-12-31,CUST-0042,P2005,Coffee Table,Furniture,North,3,94.53,0.0,UPI
+ORD-000384,2024-09-23,CUST-0093,P2005,Coffee Table,Furniture,South,2,99.76,0.1,Cash
+ORD-000051,2024/02/12,CUST-0089,P3005,Hoodie,Clothing,South,2,40.58,0.25,PayPal
+ORD-000192,2024-02-19,CUST-0196,P1003,27-inch Monitor,Electronics,North,8,238.06,0.25,Debit Card
+ORD-000512,2024-02-14,,P1001,Wireless Mouse,Electronics,East,5,24.95,0.25,Cash
+ORD-000072,2025-06-05,NULL,P2001,Office Chair,Furniture,North,2,172.64,0.0,Net Banking
+ORD-000517,2024-02-11,CUST-0121,P3005,Hoodie,Clothing,East,3,39.57,0.0,Cash
+ORD-000143,2024-05-11,CUST-0225,P1006,Bluetooth Speaker,Electronics,West,1,58.60,0.0,Cash
+ORD-000146,2024-08-03,CUST-0197,P4003,Wrist Watch,null,East,1,154.56,0.0,Cash
+ORD-000068,2025-02-14,CUST-0209,P2004,Filing Cabinet,Furniture,East,4,145.31,0.0,Credit Card
+ORD-000270,2024-03-15,CUST-0096,P1004,Noise Cancelling Headphones,Electronics,East,10,196.24,0.2,PayPal
+ORD-000666,2024-08-19,CUST-0177,P1007,Smartphone Stand,Electronics,South,1,15.20,0.25,Credit Card
+ORD-000333,2024-01-10,CUST-0030,P4003,Wrist Watch,Accessories,East,8,151.70,0.15,Net Banking
+ORD-000639,2024-08-05,CUST-0117,P3006,Formal Shirt,Clothing,South,3,34.53,0.2,PayPal
+ORD-000696,2024-07-30,CUST-0034,P4005,Laptop Sleeve,ACCESSORIES,wEST,2,22.86,0.1,UPI
+ORD-000509,2025-05-26,CUST-0157,P2003,Bookshelf,Furniture,West,1,119.02,0.0,PayPal
+ORD-000464,2025-04-01,CUST-0158,P4005,Laptop Sleeve,Accessories,South,8,23.19,0.25,UPI
+ORD-000018,2024-09-05,CUST-0201,P1004,Noise Cancelling Headphones,Electronics,South,2,202.67,0.0,Net Banking
+ORD-000487,2024-04-28,CUST-0014,P3004,Running Shoes,Clothing,North,2,86.58,0.2,Net Banking
+ORD-000554,2024-04-22,CUST-0134,P3006,Formal Shirt,Clothing,North,1,33.38,0.1,UPI
+ORD-000405,2024-03-11,CUST-0136,P3006,Formal Shirt,Clothing,North,2,34.83,0.0,UPI
+ORD-000612,2024-11-06,CUST-0159,P4004,Sunglasses,Accessories,West,4,82.66,0.0,Cash
+ORD-000501,2024-02-06,NULL,P3001,Cotton T-Shirt,Clothing,North,1,14.33,0.25,Cash
+ORD-000317,2024-08-28,CUST-0021,P3004,Running Shoes,Clothing,South,2,84.05,0.0,Cash
+ORD-000392,2024-10-20,CUST-0121,P1001,Wireless Mouse,Electronics,South,3,24.73,0.2,PayPal
+ORD-000678,2025-02-30,CUST-0006,P1004,Noise Cancelling Headphones,Electronics,West,2,196.28,0.15,Debit Card
+ORD-000215,2024-11-03,CUST-0012,P2004,Filing Cabinet,Furniture,West,1,151.20,1.5,Credit Card
+ORD-000548,2024-03-20,CUST-0005,P1004,Noise Cancelling Headphones,Electronics,East,2,190.18,0.25,Net Banking
+ORD-000673,2024-02-28,N/A,P3002,Denim Jeans,Clothing,South,5,48.47,0.0,Cash
+ORD-000170,2024-01-12,CUST-0067,P4004,Sunglasses,aCCESSORIES,eAST,2,75.98,0.1,PayPal
+ORD-000188,2024-11-11,CUST-0067,P4006,Water Bottle,Accessories,South,5,12.95,0.15,Net Banking
+ORD-000152,2025-01-09,CUST-0012,P2005,Coffee Table,Furniture,South,2,99.53,0.1,Cash
+ORD-000362,2025-03-12,CUST-0167,P3002,Denim Jeans,Clothing,East,3,49.32,0.05,UPI
+ORD-000001,2024-04-24,CUST-0007,P4006,Water Bottle,Accessories,East,2,12.47,0.2,Debit Card
+ORD-000295,2024-07-11,CUST-0039,P3001,Cotton T-Shirt,Clothing,South,2,15.74,0.2,Debit Card
+ORD-000340,2024-05-27,CUST-0077,P1001,Wireless Mouse,Electronics,East,1,25.93,0.2,PayPal
+ORD-000154,2025-05-27,CUST-0011,P3004,Running Shoes,null,North,2,84.14,0.15,Debit Card
+ORD-000063,2025-04-26,CUST-0075,P3003,Winter Jacket,Clothing,North,3,128.03,0.1,UPI
+ORD-000062,2025-04-06,CUST-0233,P2003,Bookshelf,Furniture,South,1,114.71,0.05,Cash
+ORD-000210,2025-04-17,CUST-0242,P1003,27-inch Monitor,Electronics,East,1,240.02,0.0,Net Banking
+ORD-000260,2024-03-17,CUST-0006,P1003,27-inch Monitor,Electronics,West,1,257.01,0.2,Debit Card
+ORD-000277,2024-06-09,CUST-0014,P4005,Laptop Sleeve,Accessories,North,2,,1.5,Debit Card
+ORD-000577,2025-05-23,CUST-0227,P2004,Filing Cabinet,Furniture,North,2,146.46,0.05,Cash
+ORD-000053,2025-03-22,CUST-0212,P2001,Office Chair,Furniture,East,5,184.92,0.05,UPI
+ORD-000677,2024-08-12,CUST-0227,P3006,Formal Shirt,  Clothing ,NORTH,1,34.10,0.1,Debit Card
+ORD-000186,2024-08-10,CUST-0123,P1001,Wireless Mouse,Electronics,North,3,24.27,0.25,UPI
+ORD-000295,2024-07-11,CUST-0039,P3001,Cotton T-Shirt,Clothing,South,2,15.74,0.2,Debit Card
+ORD-000608,2025-06-06,CUST-0109,P4001,Leather Wallet,Accessories,South,4,29.56,0.0,Net Banking
+ORD-000302,2024-01-05,CUST-0010,P1001,Wireless Mouse,Electronics,South,2,25.97,0.0,PayPal
+ORD-000671,2025-06-05,CUST-0066,P3003,Winter Jacket,Clothing,South,1,125.69,0.1,Net Banking
+ORD-000036,2025-01-07,CUST-0111,P4002,Backpack,Accessories,North,1,56.90,0.1,PayPal
+ORD-000017,2024-08-23,CUST-0151,P2001,Office Chair,FURNITURE,north,2,abc,0.25,Credit Card
+ORD-000235,2025-03-15,N/A,P3004,Running Shoes,Clothing,North,2,80.93,0.25,Credit Card
+ORD-000054,2025-04-20,CUST-0146,P3004,Running Shoes,Clothing,East,1,87.47,0.1,Net Banking
+ORD-000515,2024-06-24,CUST-0195,P4003,Wrist Watch,Accessories,South,2,156.07,0.05,UPI
+ORD-000392,2024-10-20,CUST-0121,P3004,Running Shoes,Clothing,South,2,86.75,0.0,PayPal
+ORD-000233,2025-03-27,CUST-0117,P4005,Laptop Sleeve,Accessories,North,1,23.41,0.1,Net Banking
+ORD-000467,2024-05-10,CUST-0131,P2004,Filing Cabinet,  Furniture ,NORTH,2,151.23,0.2,PayPal
+ORD-000645,2025-06-18,CUST-0049,P4004,Sunglasses,Accessories,East,5,76.99,0.25,Cash
+ORD-000679,2025-01-16,CUST-0170,P4002,Backpack,  Accessories ,nORTH,8,52.60,0.05,Cash
+ORD-000123,2025-04-06,CUST-0227,P3001,Cotton T-Shirt,Clothing,South,10,14.99,0.15,Credit Card
+ORD-000284,2025-02-01,CUST-0143,P3003,Winter Jacket,Clothing,South,2,124.00,0.0,UPI
+ORD-000316,2024-01-12,CUST-0165,P1006,Bluetooth Speaker,Electronics,West,3,56.35,0.2,Cash
+ORD-000015,2024-05-11,CUST-0169,P3005,Hoodie,Clothing,South,1,41.48,0.05,Cash
+ORD-000135,2024-10-08,CUST-0164,P4003,Wrist Watch,Accessories,West,3,148.58,0.0,Credit Card
+ORD-000003,2024-08-13,CUST-0115,P4005,Laptop Sleeve,Accessories,East,2,21.60,0.15,Credit Card
+ORD-000028,2024-12-17,CUST-0053,P2002,Standing Desk,Furniture,East,1,446.39,0.2,UPI
+ORD-000430,2024-03-04,,P3006,Formal Shirt,Clothing,NORTH,2,,0.05,Net Banking
+ORD-000610,2024-12-15,CUST-0248,P1003,27-inch Monitor,Electronics,West,5,255.15,0.0,Debit Card
+ORD-000573,2025-02-26,CUST-0069,P4004,Sunglasses,Accessories,West,1,79.80,0.05,PayPal
+ORD-000217,2025-02-09,CUST-0008,P3002,Denim Jeans,Clothing,East,1,49.43,0.0,Debit Card
+ORD-000435,2024-07-07,CUST-0219,P1007,Smartphone Stand,electronics,south,8,15.07,0.1,Net Banking
+ORD-000492,2024-08-10,CUST-0244,P1004,Noise Cancelling Headphones,Electronics,East,3,206.61,0.0,Credit Card
+ORD-000093,2024-03-06,CUST-0122,P1004,Noise Cancelling Headphones,Electronics,South,3,198.54,0.1,UPI
+ORD-000295,2024-07-11,CUST-0039,P4002,Backpack,Accessories,South,3,55.87,0.25,Debit Card
+ORD-000192,2024/02/19,CUST-0196,P2001,Office Chair,Furniture,North,2,182.71,0.15,Debit Card
+ORD-000332,2025-03-01,CUST-0140,P1007,Smartphone Stand,Electronics,South,1,15.74,0.25,Credit Card
+ORD-000638,2025-03-02,CUST-0211,P4005,Laptop Sleeve,Accessories,North,2,22.39,0.0,Cash
+ORD-000354,2025-03-26,CUST-0043,P1007,Smartphone Stand,Electronics,North,3,15.01,0.0,Cash
+ORD-000061,2025-02-14,CUST-0126,P4001,Leather Wallet,Accessories,North,1,30.31,0.2,PayPal
+ORD-000167,2025-02-10,CUST-0202,P1001,Wireless Mouse,Electronics,South,2,25.96,0.1,PayPal
+ORD-000657,2024-10-06,CUST-0063,P3003,Winter Jacket,Clothing,East,5,134.92,0.0,UPI
+ORD-000634,2024-01-06,CUST-0117,P4005,Laptop Sleeve,Accessories,South,4,22.15,0.0,Debit Card
+ORD-000161,2024-11-20,NULL,P1004,Noise Cancelling Headphones,Electronics,South,5,200.97,0.2,PayPal
+ORD-000044,2025-03-06,N/A,P3001,Cotton T-Shirt,Clothing,West,2,14.97,0.2,Cash
+ORD-000202,2024-03-28,CUST-0198,P1003,27-inch Monitor,Electronics,East,3,240.39,0.2,Debit Card
+ORD-000066,2024-01-27,CUST-0024,P4001,Leather Wallet,Accessories,North,1,31.49,0.0,PayPal
+ORD-000271,2025-05-13,CUST-0167,P2005,Coffee Table,Furniture,South,2,103.44,0.0,PayPal
+ORD-000601,2024-01-30,,P4003,Wrist Watch,Accessories,South,1,152.33,0.0,PayPal
+ORD-000128,22-06-2025,CUST-0140,P3001,Cotton T-Shirt,Clothing,South,2,15.55,0.15,Cash
+ORD-000207,2024-12-06,CUST-0216,P3002,Denim Jeans,CLOTHING,eAST,10,51.57,0.0,UPI
+ORD-000060,2024-10-18,CUST-0121,P1002,Mechanical Keyboard,Electronics,South,1,87.76,0.0,UPI
+ORD-000381,2024-08-29,CUST-0143,P4006,Water Bottle,Accessories,South,1,12.53,0.25,Net Banking
+ORD-000011,2025-03-08,CUST-0153,P3003,Winter Jacket,Clothing,North,5,129.38,0.0,Net Banking
+ORD-000405,2024-03-11,CUST-0136,P2005,Coffee Table,Furniture,North,2,102.79,0.05,UPI
+ORD-000620,2025-03-24,CUST-0060,P2004,Filing Cabinet,Furniture,South,1,151.34,0.2,Cash
+ORD-000434,2024-08-25,CUST-0060,P3004,Running Shoes,Clothing,East,2,81.41,0.15,UPI
+ORD-000389,2024-04-16,CUST-0068,P3001,Cotton T-Shirt,Clothing,East,2,14.58,0.0,Credit Card
+ORD-000352,2024-09-26,CUST-0149,P3001,Cotton T-Shirt,Clothing,South,4,14.79,0.1,Debit Card
+ORD-000411,2024-04-18,CUST-0197,P4005,Laptop Sleeve,Accessories,East,4,-15.00,0.2,UPI
+ORD-000035,2024-02-09,CUST-0028,P3002,Denim Jeans,Clothing,East,1,48.76,0.05,UPI
+ORD-000079,2024-05-29,N/A,P1003,27-inch Monitor,Electronics,South,2,259.28,0.1,Cash
+ORD-000642,2024-03-10,CUST-0223,P4001,Leather Wallet,Accessories,North,2,29.85,0.0,Net Banking
+ORD-000303,2024-01-05,CUST-0161,P2005,Coffee Table,Furniture,East,2,95.33,0.0,Debit Card
+ORD-000586,2024-03-25,CUST-0029,P1005,USB-C Hub,Electronics,North,1,39.76,0.0,Cash
+ORD-000571,2024-01-20,CUST-0161,P1007,Smartphone Stand,Electronics,East,8,15.74,0.1,Debit Card
+ORD-000306,2024-02-19,,P1004,Noise Cancelling Headphones,Electronics,NORTH,2,197.84,0.25,Credit Card
+ORD-000045,2024-12-10,CUST-0172,P3003,Winter Jacket,  Clothing ,eAST,5,135.20,0.0,Net Banking
+ORD-000014,2024-11-27,CUST-0126,P2001,Office Chair,  Furniture ,nORTH,10,183.15,0.0,UPI
+ORD-000003,2024-13-45,CUST-0115,P1006,Bluetooth Speaker,Electronics,East,1,58.54,0.15,Credit Card
+ORD-000635,2025-01-21,CUST-0134,P4001,Leather Wallet,Accessories,East,2,29.07,0.0,Credit Card
+ORD-000482,2025-03-07,CUST-0091,P1002,Mechanical Keyboard,Electronics,West,1,91.75,0.1,UPI
+ORD-000125,2024-01-06,CUST-0232,P1005,USB-C Hub,Electronics,North,2,40.14,0.0,UPI
+ORD-000611,2025-03-20,CUST-0137,P1006,Bluetooth Speaker,ELECTRONICS,  North ,2,59.92,0.25,Net Banking
+ORD-000488,2025-02-03,CUST-0122,P1001,,Electronics,North,3,26.06,0.0,Cash
+ORD-000035,2024-02-09,CUST-0028,P2004,Filing Cabinet,Furniture,East,2,150.58,0.05,UPI
+ORD-000082,2024-07-13,CUST-0159,P4004,Sunglasses,Accessories,North,3,80.01,0.1,PayPal
+ORD-000525,2024-10-27,CUST-0107,P2005,Coffee Table,Furniture,West,4,94.27,0.15,Cash
+ORD-000113,2025-06-03,CUST-0099,P3003,Winter Jacket,Clothing,South,3,135.22,0.0,Cash
+ORD-000144,2024-12-20,CUST-0243,P1007,Smartphone Stand,Electronics,West,3,15.67,0.0,UPI
+ORD-000421,2024-05-18,CUST-0124,P4001,Leather Wallet,Accessories,East,3,29.08,0.05,Net Banking
+ORD-000581,2024-09-02,CUST-0065,P2005,Coffee Table,Furniture,East,5,102.54,0.2,UPI
+ORD-000695,2024-06-24,CUST-0084,P1004,Noise Cancelling Headphones,Electronics,West,3,192.10,0.2,Net Banking
+ORD-000504,2025-04-12,CUST-0157,P1004,Noise Cancelling Headphones,Electronics,North,3,191.80,0.0,Cash
+ORD-000641,2025-05-12,CUST-0008,P3002,Denim Jeans,  Clothing ,eAST,1,52.17,0.0,Debit Card
+ORD-000467,2024-05-10,CUST-0131,P3006,Formal Shirt,Clothing,North,1,35.31,0.0,PayPal
+ORD-000460,2024/03/30,CUST-0086,P4004,Sunglasses,aCCESSORIES,south,4,80.94,0.05,Credit Card
+ORD-000393,2025-01-22,CUST-0057,P3005,Hoodie,Clothing,North,1,41.22,0.1,Net Banking
+ORD-000183,2025-03-13,CUST-0143,P3001,Cotton T-Shirt,Clothing,South,1,14.52,0.05,UPI
+ORD-000277,2024-06-09,CUST-0014,P3002,Denim Jeans,Clothing,North,1,51.10,0.1,Debit Card
+ORD-000025,2024-09-24,CUST-0053,P3001,Cotton T-Shirt,Clothing,East,2,14.44,15,UPI
+ORD-000344,,CUST-0207,P2004,Filing Cabinet,Furniture,South,3,145.22,0.2,Net Banking
+ORD-000383,2025-02-11,CUST-0026,P2002,Standing Desk,Furniture,East,2,427.99,0.15,Credit Card
+ORD-000078,20-08-2024,CUST-0192,P1004,Noise Cancelling Headphones,ELECTRONICS,nORTH,2,196.00,0.2,Credit Card
+ORD-000100,2024-12-25,CUST-0002,P3001,Cotton T-Shirt,Clothing,North,10,abc,0.0,Debit Card
+ORD-000072,2025-06-05,CUST-0181,P3006,Formal Shirt,Clothing,North,1,34.43,0.0,Net Banking
+ORD-000442,2024-04-03,CUST-0030,P3005,Hoodie,Clothing,East,10,40.82,0.0,PayPal
+ORD-000164,2024-09-05,CUST-0013,P2001,Office Chair,Furniture,East,3,170.99,0.0,Cash
+ORD-000162,2024-12-19,CUST-0245,P2003,Bookshelf,Furniture,East,8,125.45,0.1,Debit Card
+ORD-000361,2024-05-17,CUST-0066,P1003,27-inch Monitor,Electronics,South,1,258.38,0.0,Debit Card
+ORD-000111,2025-04-20,CUST-0194,P4001,Leather Wallet,Accessories,East,1,30.42,0.15,Cash
+ORD-000456,2025-01-19,CUST-0161,P3001,Cotton T-Shirt,Clothing,South,4,14.52,0.1,Debit Card
+ORD-000411,2024-04-18,CUST-0197,P4004,Sunglasses,Accessories,East,2,79.04,0.25,UPI
+ORD-000154,2025-05-27,CUST-0011,P3005,Hoodie,Clothing,North,2,41.72,0.1,Debit Card
+ORD-000543,2025-06-10,CUST-0050,P4002,Backpack,Accessories,East,4,55.23,0.1,Debit Card
+ORD-000563,2024-09-26,CUST-0127,P2003,Bookshelf,Furniture,East,1,118.18,0.15,Net Banking
+ORD-000089,2024-02-03,CUST-0177,P2001,Office Chair,Furniture,South,3,185.36,0.15,Net Banking
+ORD-000535,2025-03-01,CUST-0206,P3002,Denim Jeans,Clothing,South,2,51.97,15,Debit Card
+ORD-000546,2024-01-18,CUST-0123,P3003,Winter Jacket,Clothing,South,4,134.03,0.15,PayPal
+ORD-000173,2024-03-04,CUST-0213,P3006,Formal Shirt,Clothing,South,2,33.76,0.0,Cash
+ORD-000643,2024-05-21,CUST-0130,P1005,USB-C Hub,  Electronics ,EAST,3,39.25,0.2,Net Banking
+ORD-000375,2024-05-02,CUST-0236,P1001,Wireless Mouse,Electronics,North,1,25.65,0.25,PayPal
+ORD-000415,2024-09-28,CUST-0094,P2003,Bookshelf,Furniture,West,5,115.09,0.0,Debit Card
+ORD-000373,2025-05-02,CUST-0081,P4006,Water Bottle,Accessories,South,2,13.23,0.05,Cash
+ORD-000029,2024-10-10,CUST-0012,P1006,Bluetooth Speaker,Electronics,North,3,56.71,0.0,Debit Card
+ORD-000540,2025-05-19,CUST-0249,P3004,Running Shoes,Clothing,North,3,85.05,0.25,PayPal
+ORD-000682,2025-06-22,CUST-0178,P4001,Leather Wallet,  Accessories ,south,2,29.69,0.0,Net Banking
+ORD-000537,2024-05-20,CUST-0052,P3004,Running Shoes,cLOTHING,NORTH,4,80.63,0.1,Net Banking
+ORD-000092,27-01-2024,,P1001,Wireless Mouse,Electronics,North,3,24.18,0.0,Debit Card
+ORD-000312,2024-06-23,CUST-0085,P4006,Water Bottle,Accessories,South,2,13.59,0.25,Net Banking
+ORD-000687,2024/07/14,CUST-0181,P4005,Laptop Sleeve,Accessories,East,1,23.42,0.15,Debit Card
+ORD-000074,2024-12-06,CUST-0142,P2004,Filing Cabinet,  Furniture ,  East ,1,154.51,0.2,Net Banking
+ORD-000560,2024-03-19,CUST-0170,P1007,Smartphone Stand,ELECTRONICS,east,1,15.74,0.15,Net Banking
+ORD-000090,2024-03-03,CUST-0102,P3003,Winter Jacket,Clothing,North,10,125.29,0.0,Credit Card
+ORD-000402,2024-03-02,CUST-0092,P1004,Noise Cancelling Headphones,electronics,EAST,10,192.04,0.15,PayPal
+ORD-000588,2024-01-22,CUST-0243,P4003,Wrist Watch,ACCESSORIES,  North ,1,156.09,,Cash
+ORD-000666,2024-08-19,CUST-0177,P2004,Filing Cabinet,,South,2,154.07,0.15,Credit Card
+ORD-000214,2024-12-17,CUST-0117,P3004,Running Shoes,Clothing,East,2,81.10,0.0,Cash
+ORD-000498,2024-01-04,CUST-0099,P3006,Formal Shirt,cLOTHING,west,-1,36.51,0.2,Net Banking
+ORD-000700,13-04-2025,CUST-0099,P1004,Noise Cancelling Headphones,Electronics,West,5,203.46,0.0,Debit Card
+ORD-000104,2024-02-16,CUST-0057,P1007,Smartphone Stand,Electronics,South,1,15.18,0.1,Cash
+ORD-000596,2024-02-24,CUST-0049,P3004,Running Shoes,Clothing,North,2,82.47,0.25,Debit Card
+ORD-000365,2024-06-13,CUST-0100,P1005,USB-C Hub,eLECTRONICS,west,1,41.65,0.05,Credit Card
+ORD-000407,2024-02-14,CUST-0214,P1004,Noise Cancelling Headphones,Electronics,West,3,202.65,0.1,Debit Card
+ORD-000658,2024-01-03,CUST-0156,P3002,Denim Jeans,Clothing,South,4,51.97,0.0,Credit Card
+ORD-000403,2025-03-25,N/A,P4006,,  Accessories ,nORTH,2,12.52,0.25,PayPal
+ORD-000393,2025-01-22,CUST-0057,P4002,Backpack,Accessories,North,1,54.51,0.1,Net Banking
+ORD-000432,2024-11-21,CUST-0018,P2004,Filing Cabinet,FURNITURE,EAST,1,154.06,0.15,PayPal
+ORD-000490,2025-06-16,CUST-0087,P1001,Wireless Mouse,Electronics,East,1,25.42,,Debit Card
+ORD-000505,2024-07-26,CUST-0110,P1004,Noise Cancelling Headphones,  Electronics ,  South ,1,204.77,0.0,PayPal
+ORD-000493,18-03-2024,CUST-0164,P4004,Sunglasses,accessories,SOUTH,2,77.24,0.0,UPI
+ORD-000355,2025/05/08,CUST-0173,P4003,Wrist Watch,Accessories,South,1,154.99,0.0,Debit Card
+ORD-000346,2024-07-20,CUST-0068,P1003,27-inch Monitor,Electronics,East,3,258.76,0.2,PayPal
+ORD-000316,2024-01-12,CUST-0165,P3004,Running Shoes,Clothing,West,1,80.91,0.1,Cash
+ORD-000592,2025-02-11,CUST-0176,P4006,Water Bottle,Accessories,North,1,12.67,0.15,Net Banking
+ORD-000599,2024-01-05,CUST-0135,P1003,27-inch Monitor,Electronics,East,1,242.68,0.15,Debit Card
+ORD-000667,2024-02-25,CUST-0211,P3003,Winter Jacket,Clothing,South,5,134.38,0.0,Debit Card
+ORD-000413,2025-04-08,CUST-0115,P4002,Backpack,Accessories,West,5,53.89,0.0,Credit Card
+ORD-000447,not_a_date,CUST-0173,P4002,Backpack,ACCESSORIES,north,2,56.57,0.15,PayPal
+ORD-000166,2024-10-19,CUST-0166,P3006,Formal Shirt,Clothing,North,8,34.70,0.0,Credit Card
+ORD-000227,2025-03-14,CUST-0043,P1002,Mechanical Keyboard,Electronics,East,2,88.65,0.15,Debit Card
+ORD-000691,2024-08-18,CUST-0108,P3006,Formal Shirt,Clothing,South,0,36.47,0.15,Net Banking
+ORD-000446,2024-07-31,CUST-0013,P1002,Mechanical Keyboard,Electronics,North,4,93.17,0.1,Credit Card
+ORD-000591,2024-08-29,CUST-0159,P4004,Sunglasses,Accessories,South,2,80.16,0.15,Debit Card
+ORD-000076,2025-05-22,CUST-0247,P2004,Filing Cabinet,FURNITURE,  North ,1,143.04,0.0,Cash
+ORD-000384,2024-09-23,CUST-0093,P1001,Wireless Mouse,Electronics,South,2,24.63,0.25,Cash
+ORD-000515,31/31/2024,CUST-0195,P4002,Backpack,Accessories,South,2,52.72,0.05,UPI
+ORD-000148,2025-02-12,CUST-0034,P2004,Filing Cabinet,FURNITURE,east,2,145.15,0.0,Cash
+ORD-000431,2025-03-03,CUST-0062,P4002,Backpack,accessories,  East ,1,55.22,0.05,Net Banking
+ORD-000419,2025-02-06,CUST-0249,P1003,27-inch Monitor,Electronics,South,2,242.08,0.0,Cash
+ORD-000574,2024-01-29,CUST-0063,P3006,Formal Shirt,Clothing,East,5,36.71,0.05,UPI
+ORD-000047,15-09-2024,CUST-0214,P1002,Mechanical Keyboard,Electronics,North,8,87.51,0.0,Credit Card
+ORD-000536,2024-03-08,CUST-0239,P3002,Denim Jeans,Clothing,West,1,50.68,0.25,Net Banking
+ORD-000369,2024-04-02,CUST-0141,P2001,Office Chair,Furniture,North,1,179.06,0.1,Cash
+ORD-000143,2024-05-11,CUST-0225,P1005,USB-C Hub,Electronics,West,1,40.02,0.05,Cash
+ORD-000368,2024-06-10,CUST-0023,P3001,Cotton T-Shirt,Clothing,West,1,14.85,0.0,Net Banking
+ORD-000564,2025-01-24,CUST-0025,P1002,Mechanical Keyboard,Electronics,South,3,91.44,0.0,UPI
+ORD-000298,2025-03-06,CUST-0202,P2003,Bookshelf,Furniture,West,1,119.56,0.0,UPI
+ORD-000670,2025-06-13,CUST-0085,P4002,Backpack,Accessories,East,4,56.16,0.0,Credit Card
+ORD-000180,02-02-2024,CUST-0208,P2001,Office Chair,Furniture,East,2,174.43,0.05,Cash
+ORD-000251,2024-12-09,CUST-0001,P2003,Bookshelf,Furniture,East,1,125.52,0.1,Net Banking
+ORD-000465,2024-04-09,CUST-0117,P3003,Winter Jacket,Clothing,South,5,125.54,0.1,PayPal
+ORD-000466,2024-11-28,CUST-0117,P2005,Coffee Table,Furniture,South,1,98.79,0.15,Credit Card
+ORD-000531,2025-03-28,CUST-0087,P1002,Mechanical Keyboard,Electronics,East,1,86.75,0.2,PayPal
+ORD-000194,2025-05-29,CUST-0209,P1006,Bluetooth Speaker,Electronics,East,1,61.47,0.1,Net Banking
+ORD-000117,2024-05-10,CUST-0172,P3005,Hoodie,null,East,0,40.67,0.1,PayPal
+ORD-000243,2024-06-08,CUST-0138,P4003,Wrist Watch,Accessories,South,2,152.14,0.05,Cash
+ORD-000569,2024-12-10,CUST-0070,P1007,Smartphone Stand,Electronics,North,4,15.25,0.1,Cash
+ORD-000587,2024-12-01,CUST-0205,P1006,Bluetooth Speaker,Electronics,North,4,58.37,0.05,Credit Card
+ORD-000578,2025-03-09,CUST-0056,P2002,,furniture,  North ,2,426.40,0.25,Debit Card
+ORD-000200,2024-03-21,CUST-0129,P3002,Denim Jeans,null,East,3,48.65,0.2,UPI
+ORD-000349,2025-06-10,NULL,P4001,Leather Wallet,Accessories,South,3,30.47,0.25,Debit Card
+ORD-000665,2024-08-17,CUST-0013,P2004,Filing Cabinet,  Furniture ,NORTH,1,141.63,0.0,Net Banking
+ORD-000307,2024-06-05,CUST-0053,P3002,Denim Jeans,Clothing,East,1,50.80,0.0,PayPal
+ORD-000125,2024-01-06,CUST-0232,P1005,USB-C Hub,Electronics,North,2,40.14,0.0,UPI
+ORD-000049,2024-06-16,CUST-0247,P2003,Bookshelf,Furniture,South,2,120.90,0.05,Cash
+ORD-000357,2024-10-17,CUST-0243,P1006,Bluetooth Speaker,Electronics,North,1,59.73,0.15,Net Banking
+ORD-000606,2025-05-22,CUST-0135,P3003,Winter Jacket,CLOTHING,east,2,128.19,0.0,Cash
+ORD-000440,2025-04-19,CUST-0213,P1006,Bluetooth Speaker,Electronics,East,1,58.37,0.25,Credit Card
+ORD-000029,2024-10-10,CUST-0012,P2002,Standing Desk,Furniture,North,2,439.35,0.0,Debit Card
+ORD-000500,2024-07-26,CUST-0046,P4005,Laptop Sleeve,Accessories,East,3,21.56,0.0,Net Banking
+ORD-000530,2024-01-05,CUST-0249,P4005,Laptop Sleeve,Accessories,East,8,22.03,0.0,Cash
+ORD-000488,2025-02-03,CUST-0122,P2003,Bookshelf,Furniture,North,2,115.16,0.2,Cash
+ORD-000234,2024-04-05,CUST-0168,P4003,Wrist Watch,Accessories,South,1,144.97,0.05,Credit Card
+ORD-000689,2024-12-14,CUST-0203,P4005,Laptop Sleeve,Accessories,North,5,22.30,0.0,Debit Card
+ORD-000271,2025-05-13,,P4005,Laptop Sleeve,Accessories,SOUTH,1,21.87,0.1,PayPal
+ORD-000184,2025-02-26,CUST-0248,P2001,Office Chair,Furniture,South,1,174.61,0.25,Cash
+ORD-000097,2024-04-05,CUST-0111,P1005,USB-C Hub,Electronics,North,2,40.18,0.15,PayPal
+ORD-000539,2024-05-07,N/A,P3004,Running Shoes,Clothing,East,1,87.94,0.1,UPI
+ORD-000379,2024-09-26,CUST-0061,P1006,Bluetooth Speaker,eLECTRONICS,nORTH,3,58.99,0.15,Cash
+ORD-000538,2025-05-20,CUST-0144,P1001,Wireless Mouse,Electronics,East,3,24.13,0.25,Debit Card
+ORD-000157,2024/05/31,CUST-0211,P4005,Laptop Sleeve,Accessories,East,1,21.61,0.0,Credit Card
+ORD-000652,2024-04-13,CUST-0064,P2003,Bookshelf,Furniture,East,3,118.87,0.05,PayPal
+ORD-000555,2024-08-19,CUST-0142,P1003,27-inch Monitor,Electronics,South,8,258.83,0.15,Net Banking
+ORD-000026,2024-01-10,CUST-0118,P1007,Smartphone Stand,Electronics,East,3,15.66,0.0,Cash
+ORD-000133,2025-03-23,CUST-0228,P3001,Cotton T-Shirt,Clothing,South,2,15.70,0.1,Net Banking
+ORD-000671,2025-06-05,CUST-0066,P1006,Bluetooth Speaker,null,South,3,59.50,0.15,Net Banking
+ORD-000232,2024-12-17,CUST-0229,P4003,Wrist Watch,,East,1,154.25,0.0,Credit Card
+ORD-000175,2025-02-09,CUST-0066,P1003,27-inch Monitor,Electronics,West,1,237.68,0.0,PayPal
+ORD-000033,2025-04-26,CUST-0057,P2001,Office Chair,Furniture,North,2,174.04,0.1,Net Banking
+ORD-000169,2025-03-13,CUST-0132,P1006,Bluetooth Speaker,Electronics,South,1,58.87,0.2,Net Banking
+ORD-000274,2024-04-20,CUST-0185,P3002,Denim Jeans,Clothing,North,2,52.34,0.2,Net Banking
+ORD-000423,2024-07-14,CUST-0083,P2003,,Furniture,South,4,116.02,0.25,PayPal
+ORD-000608,2025-06-06,CUST-0109,P2002,Standing Desk,Furniture,South,1,412.44,0.0,Net Banking
+ORD-000044,2025-03-06,CUST-0100,P4001,Leather Wallet,Accessories,West,2,31.05,0.05,Cash
+ORD-000376,2025-01-15,CUST-0159,P1006,Bluetooth Speaker,Electronics,South,two,60.48,-0.1,Cash
+ORD-000653,2024-09-08,,P1001,Wireless Mouse,Electronics,WEST,3,25.77,0.0,Cash
+ORD-000012,2024-04-27,CUST-0175,P2004,Filing Cabinet,Furniture,West,1,145.92,0.1,UPI
+ORD-000500,2024-07-26,CUST-0046,P2003,Bookshelf,Furniture,East,3,118.67,0.25,Net Banking
+ORD-000248,2024-08-17,CUST-0083,P1003,27-inch Monitor,Electronics,North,3,250.78,0.0,PayPal
+ORD-000327,2024-05-29,CUST-0215,P3006,Formal Shirt,Clothing,North,two,33.35,0.05,UPI
+ORD-000052,2024-04-18,CUST-0111,P4005,Laptop Sleeve,Accessories,West,4,22.75,0.25,PayPal
+ORD-000508,2024-05-09,CUST-0053,P3002,Denim Jeans,Clothing,North,3,48.69,0.0,UPI
+ORD-000477,2025-03-23,CUST-0250,P3002,Denim Jeans,Clothing,West,3,51.79,0.2,Credit Card
+ORD-000698,2025-06-22,CUST-0085,P4001,Leather Wallet,Accessories,West,3,28.61,0.25,Net Banking
+ORD-000373,2025-05-02,CUST-0081,P4006,Water Bottle,Accessories,South,2,13.23,0.05,Cash
+ORD-000386,2024-11-17,CUST-0082,P4003,Wrist Watch,Accessories,East,4,148.42,0.15,PayPal
+ORD-000655,2025-06-06,CUST-0073,P1003,27-inch Monitor,Electronics,North,1,244.04,0.0,PayPal
+ORD-000026,2024-01-10,CUST-0118,P1003,27-inch Monitor,Electronics,East,1,249.15,0.0,Cash
+ORD-000115,2024-12-12,CUST-0174,P1003,27-inch Monitor,null,East,1,238.90,0.0,PayPal
+ORD-000664,2024-11-26,CUST-0111,P4004,Sunglasses,Accessories,West,2,79.14,0.0,Net Banking
+ORD-000113,2025-06-03,CUST-0099,P1002,Mechanical Keyboard,Electronics,South,2,90.00,0.15,Cash
+ORD-000470,2025-01-23,CUST-0084,P1007,Smartphone Stand,  Electronics ,SOUTH,5,15.98,0.0,PayPal
+ORD-000445,2024/08/10,CUST-0151,P1003,27-inch Monitor,Electronics,East,5,251.52,0.1,Net Banking
+ORD-000447,2024-06-14,CUST-0173,P4001,Leather Wallet,Accessories,North,1,31.28,0.15,PayPal
+ORD-000683,2024-07-31,CUST-0057,P1007,Smartphone Stand,Electronics,West,4,15.11,0.1,Net Banking
+ORD-000461,2024-11-24,N/A,P3003,Winter Jacket,Clothing,North,1,131.21,0.0,UPI
+ORD-000648,06-07-2024,CUST-0066,P3002,Denim Jeans,Clothing,East,8,50.88,0.0,Debit Card
+ORD-000141,2025-06-04,CUST-0058,P2001,Office Chair,Furniture,North,2,-15.00,0.0,Debit Card
+ORD-000281,28-03-2024,CUST-0172,P4001,Leather Wallet,aCCESSORIES,south,2,29.17,0.2,Cash
+ORD-000305,2024-08-17,CUST-0187,P4001,Leather Wallet,Accessories,West,3,29.00,0.0,Debit Card
+ORD-000659,2025-03-31,CUST-0173,P3001,Cotton T-Shirt,Clothing,North,1,14.43,0.0,Net Banking
+ORD-000061,2025-02-14,CUST-0126,P1005,USB-C Hub,Electronics,North,1,41.74,0.2,PayPal
+ORD-000513,2024-11-29,CUST-0108,P1004,Noise Cancelling Headphones,Electronics,North,2,197.02,0.25,PayPal
+ORD-000431,2025-03-03,CUST-0062,P2004,Filing Cabinet,null,East,3,154.40,0.0,Net Banking
+ORD-000681,not_a_date,CUST-0187,P4002,Backpack,Accessories,North,5,53.16,0.15,Net Banking
+ORD-000339,2024-02-16,CUST-0180,P2003,Bookshelf,Furniture,West,1,118.57,0.0,UPI
+ORD-000511,2025-05-24,CUST-0046,P2005,Coffee Table,Furniture,North,1,96.87,0.25,Credit Card
+ORD-000514,2024-02-25,CUST-0228,P3001,Cotton T-Shirt,Clothing,South,2,14.66,0.2,Debit Card
+ORD-000429,2025-06-28,CUST-0023,P3006,Formal Shirt,  Clothing ,  North ,1,33.38,0.25,Cash
+ORD-000662,2025-05-27,CUST-0127,P4001,Leather Wallet,Accessories,North,1,30.54,0.0,Debit Card
+ORD-000620,2025-03-24,CUST-0060,P4002,Backpack,Accessories,South,3,57.52,0.15,Cash
+ORD-000311,2025-04-20,CUST-0013,P2005,Coffee Table,Furniture,North,1,102.48,0.0,Debit Card
+ORD-000499,2024-02-26,CUST-0162,P3006,Formal Shirt,Clothing,West,4,36.23,0.1,PayPal
+ORD-000103,2025-02-28,CUST-0070,P3002,Denim Jeans,cLOTHING,NORTH,2,48.04,0.1,Cash
+ORD-000132,2024-02-07,CUST-0193,P1002,Mechanical Keyboard,  Electronics ,EAST,1,93.28,0.15,UPI
+ORD-000094,2025-04-14,CUST-0165,P3002,Denim Jeans,Clothing,West,1,49.10,0.15,Credit Card
+ORD-000078,2024-08-20,CUST-0192,P4005,Laptop Sleeve,Accessories,North,5,22.36,0.0,Credit Card
+ORD-000055,2024-12-14,CUST-0072,P1001,Wireless Mouse,Electronics,West,3,24.96,0.25,PayPal
+ORD-000134,2024-10-27,CUST-0083,P2003,Bookshelf,Furniture,North,3,121.22,0.15,UPI
+ORD-000098,2024-05-05,CUST-0106,P3002,Denim Jeans,Clothing,South,2,52.33,0.05,PayPal
+ORD-000516,2025-04-29,CUST-0215,P4006,Water Bottle,Accessories,South,1,12.66,0.0,Credit Card
+ORD-000239,2024-09-11,CUST-0142,P4005,Laptop Sleeve,aCCESSORIES,eAST,1,23.27,0.05,PayPal
+ORD-000322,2025-05-25,CUST-0002,P3002,Denim Jeans,Clothing,South,two,51.68,0.0,Credit Card
+ORD-000453,2024/10/15,CUST-0066,P3006,Formal Shirt,Clothing,East,3,34.37,0.15,UPI
+ORD-000199,2024-03-19,CUST-0077,P3001,Cotton T-Shirt,  Clothing ,  North ,2,15.26,0.0,Debit Card
+ORD-000259,2024-03-04,CUST-0213,P3001,Cotton T-Shirt,Clothing,East,3,14.80,0.1,Debit Card
+ORD-000454,2025-02-09,CUST-0186,P1007,Smartphone Stand,  Electronics ,eAST,2,16.01,0.25,Credit Card
+ORD-000213,2024-12-19,CUST-0007,P1003,27-inch Monitor,Electronics,South,1,239.44,0.1,UPI
+ORD-000174,2024-07-29,CUST-0184,P1002,Mechanical Keyboard,ELECTRONICS,EAST,1,90.52,0.0,Credit Card
+ORD-000299,2025-04-28,CUST-0228,P3005,Hoodie,Clothing,North,10,41.96,0.25,Credit Card
+ORD-000468,2025-05-08,CUST-0099,P3002,Denim Jeans,Clothing,North,3,48.36,0.25,Debit Card
+ORD-000026,2024-01-10,CUST-0118,P3006,Formal Shirt,Clothing,East,1,36.32,0.1,Cash
+ORD-000684,2025-03-31,CUST-0133,P3005,Hoodie,Clothing,South,2,40.47,0.2,Cash
+ORD-000185,2025-01-14,CUST-0024,P3001,Cotton T-Shirt,Clothing,South,5,15.25,0.05,Debit Card
+ORD-000554,2024-04-22,CUST-0134,P4006,Water Bottle,Accessories,North,3,12.93,0.25,UPI
+ORD-000253,2025-02-07,CUST-0020,P1005,USB-C Hub,Electronics,East,1,38.90,0.2,Credit Card
+ORD-000174,2024-07-29,CUST-0184,P3003,Winter Jacket,Clothing,East,2,128.40,0.0,Credit Card
+ORD-000228,2024-05-18,CUST-0247,P1005,USB-C Hub,Electronics,East,3,38.52,0.2,Net Banking
+ORD-000600,2024-01-27,CUST-0073,P2005,Coffee Table,null,East,4,99.89,0.0,PayPal
+ORD-000159,2025-04-15,NULL,P4006,Water Bottle,null,South,1,13.22,0.25,Cash
+ORD-000522,2024-09-01,CUST-0139,P4005,Laptop Sleeve,Accessories,North,2,23.38,0.0,Net Banking
+ORD-000627,2025-02-28,CUST-0093,P3005,Hoodie,Clothing,East,4,39.68,0.2,Debit Card
+ORD-000676,2024/05/25,NULL,P2005,Coffee Table,Furniture,South,1,94.48,0.0,PayPal
+ORD-000465,2024-04-09,CUST-0117,P3004,Running Shoes,Clothing,South,3,87.99,0.15,PayPal
+ORD-000266,2024-12-29,CUST-0240,P4001,Leather Wallet,Accessories,West,2,29.44,0.0,Debit Card
+ORD-000585,2024-02-23,CUST-0165,P4003,Wrist Watch,accessories,EAST,3,144.53,0.15,PayPal
+ORD-000218,2024-04-14,CUST-0205,P1007,Smartphone Stand,Electronics,West,5,15.42,0.15,Debit Card
+ORD-000623,2025-05-30,CUST-0009,P4002,Backpack,Accessories,West,2,53.49,0.15,UPI
+ORD-000357,2024-10-17,CUST-0243,P3004,Running Shoes,Clothing,North,1,82.13,0.0,Net Banking
+ORD-000183,2025-03-13,CUST-0143,P3001,Cotton T-Shirt,Clothing,South,1,14.52,0.05,UPI
+ORD-000260,2024-03-17,CUST-0006,P3003,Winter Jacket,Clothing,West,1,134.23,0.0,Debit Card
+ORD-000114,2024-09-10,N/A,P4002,Backpack,Accessories,South,1,53.11,0.2,Net Banking
+ORD-000441,2024-07-25,CUST-0226,P4003,Wrist Watch,Accessories,South,3,156.10,0.0,UPI
+ORD-000245,2025-01-15,CUST-0033,P1001,Wireless Mouse,Electronics,East,1,25.52,0.25,UPI
+ORD-000385,2024-03-21,NULL,P1006,Bluetooth Speaker,Electronics,East,1,61.06,0.05,Net Banking
+ORD-000319,2025-04-12,CUST-0244,P2004,Filing Cabinet,Furniture,South,4,152.22,0.05,Credit Card
+ORD-000036,2025-01-07,CUST-0111,P4004,Sunglasses,Accessories,North,2,76.57,0.0,PayPal
+ORD-000369,2024-04-02,CUST-0141,P2005,Coffee Table,Furniture,North,8,100.05,0.0,Cash
+ORD-000523,2024-03-05,CUST-0096,P1004,Noise Cancelling Headphones,Electronics,South,4,198.90,0.1,Net Banking
+ORD-000273,2024-08-31,CUST-0089,P4005,Laptop Sleeve,Accessories,West,1,21.96,0.1,Debit Card
+ORD-000567,2024-04-12,CUST-0177,P4004,Sunglasses,Accessories,East,2,77.73,0.2,UPI
+ORD-000590,2024-05-01,CUST-0058,P2002,Standing Desk,Furniture,East,5,428.75,0.05,Debit Card
+ORD-000486,2024-05-28,CUST-0153,P3001,Cotton T-Shirt,Clothing,West,1,15.11,0.1,Debit Card
+ORD-000243,,CUST-0138,P4004,Sunglasses,Accessories,South,2,75.51,0.25,Cash
+ORD-000300,2024-05-26,CUST-0081,P3004,Running Shoes,Clothing,West,3,85.61,0.0,Debit Card
+ORD-000156,2025-03-02,CUST-0150,P4003,Wrist Watch,Accessories,South,3,151.44,0.05,PayPal
+ORD-000241,2024-06-25,CUST-0196,P1003,27-inch Monitor,,South,8,236.89,0.2,Credit Card
+ORD-000330,2024-03-17,CUST-0048,P3001,Cotton T-Shirt,Clothing,West,1,14.30,0.0,PayPal
+ORD-000526,2025-05-12,CUST-0152,P3003,Winter Jacket,Clothing,East,1,129.87,0.1,Cash
+ORD-000514,2024-02-25,CUST-0228,P1006,Bluetooth Speaker,Electronics,South,0,61.81,,Debit Card
+ORD-000629,20-03-2025,CUST-0016,P4003,Wrist Watch,Accessories,South,3,156.03,0.1,Credit Card
+ORD-000647,2025-02-28,CUST-0007,P1003,27-inch Monitor,Electronics,West,1,239.40,0.0,UPI
+ORD-000365,2024-06-13,CUST-0100,P3004,Running Shoes,Clothing,West,3,83.41,,Credit Card
+ORD-000139,2024-10-19,CUST-0178,P1005,USB-C Hub,Electronics,West,5,41.36,0.25,Net Banking
+ORD-000628,2025-02-23,CUST-0230,P1001,Wireless Mouse,Electronics,South,10,23.95,0.0,Cash
+ORD-000668,2024-11-04,CUST-0157,P1002,Mechanical Keyboard,Electronics,East,2,90.52,0.0,Credit Card
+ORD-000077,2024-03-23,CUST-0219,P2004,Filing Cabinet,Furniture,South,3,150.75,0.1,PayPal
+ORD-000510,2025-04-20,CUST-0198,P1007,Smartphone Stand,Electronics,East,4,14.89,0.25,Debit Card
+ORD-000098,2024-05-05,CUST-0106,P4006,Water Bottle,Accessories,South,4,12.54,0.15,PayPal
+ORD-000055,2024-12-14,CUST-0072,P3006,Formal Shirt,Clothing,West,1,35.05,0.2,PayPal
+ORD-000626,2025/01/07,CUST-0086,P3003,Winter Jacket,Clothing,West,4,132.47,0.25,Credit Card
+ORD-000565,2024-03-08,CUST-0223,P3006,Formal Shirt,Clothing,South,5,34.38,0.2,UPI
+ORD-000443,2025-01-22,CUST-0141,P4004,Sunglasses,Accessories,South,4,78.36,0.25,Debit Card
+ORD-000112,2024-06-03,CUST-0113,P4001,Leather Wallet,accessories,nORTH,1,28.60,0.0,Net Banking
+ORD-000182,30-08-2024,CUST-0078,P3002,Denim Jeans,Clothing,West,8,48.99,0.0,PayPal
+ORD-000553,2025-01-10,CUST-0179,P1004,Noise Cancelling Headphones,Electronics,East,2,206.18,0.05,Net Banking
+ORD-000287,2024-04-10,CUST-0249,P4006,Water Bottle,Accessories,West,1,12.92,0.2,Debit Card
+ORD-000502,2024-01-17,CUST-0010,P3001,Cotton T-Shirt,Clothing,South,2,15.65,0.05,UPI
+ORD-000090,2024-03-03,CUST-0102,P4004,Sunglasses,Accessories,North,1,75.59,0.05,Credit Card
+ORD-000310,2024-04-01,CUST-0233,P1003,27-inch Monitor,,North,10,252.59,0.1,Cash
+ORD-000189,2024-11-16,CUST-0106,P2002,Standing Desk,FURNITURE,north,2,414.09,0.05,Debit Card
+ORD-000558,2024-10-06,CUST-0194,P4004,Sunglasses,ACCESSORIES,eAST,1,78.98,0.0,PayPal
+ORD-000012,2024-04-27,CUST-0175,P1004,Noise Cancelling Headphones,Electronics,West,2,208.91,0.0,UPI
+ORD-000679,2025-01-16,CUST-0170,P3002,Denim Jeans,Clothing,North,2,48.45,0.2,Cash
+ORD-000309,2025-02-23,CUST-0076,P1007,Smartphone Stand,Electronics,North,1,15.78,0.0,Cash
+ORD-000250,2024-07-19,CUST-0188,P3002,Denim Jeans,null,West,3,47.61,0.0,Debit Card
+ORD-000413,2025-04-08,CUST-0115,P2003,Bookshelf,Furniture,West,5,114.19,0.0,Credit Card
+ORD-000401,2024-06-07,CUST-0096,P1003,27-inch Monitor,null,East,8,253.63,0.0,Debit Card
+ORD-000117,2024-05-10,CUST-0172,P1003,27-inch Monitor,Electronics,East,8,241.04,0.25,PayPal
+ORD-000057,2025-03-11,CUST-0191,P2003,Bookshelf,Furniture,East,3,122.90,0.05,UPI
+ORD-000133,2025-03-23,CUST-0228,P2004,Filing Cabinet,  Furniture ,sOUTH,1,153.49,0.0,Net Banking
+ORD-000085,2025-04-10,CUST-0095,P3001,Cotton T-Shirt,Clothing,East,1,15.47,0.05,PayPal
+ORD-000389,2024-04-16,CUST-0068,P2003,Bookshelf,Furniture,East,1,115.57,0.15,Credit Card
+ORD-000340,2024-05-27,CUST-0077,P3006,Formal Shirt,Clothing,East,1,35.12,0.15,PayPal
+ORD-000497,2025-06-11,CUST-0182,P3001,Cotton T-Shirt,,West,4,15.51,0.05,Net Banking
+ORD-000331,2024-09-18,CUST-0002,P1005,USB-C Hub,Electronics,South,2,39.91,0.15,PayPal
+ORD-000279,2025-04-27,CUST-0126,P3006,Formal Shirt,Clothing,West,2,34.60,0.0,UPI
+ORD-000358,2025-04-09,CUST-0153,P1005,USB-C Hub,Electronics,East,5,38.39,0.2,Debit Card
+ORD-000409,2024-03-03,CUST-0093,P4005,Laptop Sleeve,Accessories,East,1,23.22,0.0,Net Banking
+ORD-000614,2024-03-29,CUST-0078,P1001,Wireless Mouse,Electronics,East,3,24.03,0.25,Debit Card
+ORD-000076,2025-05-22,CUST-0247,P1004,Noise Cancelling Headphones,Electronics,North,1,197.70,0.25,Cash
+ORD-000014,2024-11-27,CUST-0126,P2003,Bookshelf,Furniture,North,8,114.69,0.0,UPI
+ORD-000371,2024-01-29,CUST-0124,P2001,Office Chair,Furniture,North,1,182.17,0.15,Credit Card
+ORD-000526,2025-05-12,CUST-0152,P2003,Bookshelf,Furniture,East,1,116.71,0.0,Cash
+ORD-000006,2024-10-11,CUST-0117,P2005,Coffee Table,Furniture,East,8,96.12,0.0,UPI
+ORD-000044,2025-03-06,CUST-0100,P1001,Wireless Mouse,Electronics,West,1,24.93,0.2,Cash
+ORD-000275,2024-12-25,CUST-0140,P4001,Leather Wallet,aCCESSORIES,south,2,30.76,0.0,Net Banking
+ORD-000443,2025-01-22,CUST-0141,P1005,USB-C Hub,Electronics,South,5,39.11,0.05,Debit Card
+ORD-000359,2024-06-02,CUST-0156,P4002,Backpack,Accessories,North,2,55.01,0.0,Net Banking
+ORD-000556,2024-07-02,CUST-0004,P3001,Cotton T-Shirt,Clothing,West,1,15.02,0.2,Net Banking
+ORD-000369,2024-04-02,CUST-0141,P2002,Standing Desk,Furniture,North,1,418.75,0.0,Cash
+ORD-000154,2025-05-27,CUST-0011,P3005,Hoodie,Clothing,North,2,41.72,0.1,Debit Card
+ORD-000568,25-07-2024,CUST-0128,P3006,Formal Shirt,Clothing,East,10,34.25,0.2,Credit Card
+ORD-000347,2024-08-05,CUST-0233,P3006,Formal Shirt,Clothing,North,2,34.89,0.05,UPI
+ORD-000594,2024-07-02,CUST-0067,P1005,USB-C Hub,Electronics,North,2,39.20,0.1,Net Banking
+ORD-000700,2025-04-13,CUST-0099,P3001,Cotton T-Shirt,null,wEST,1,14.65,0.0,Debit Card
+ORD-000065,2025-02-16,CUST-0242,P1003,27-inch Monitor,Electronics,North,3,251.44,0.1,Cash
+ORD-000071,2025-02-21,CUST-0024,P1004,Noise Cancelling Headphones,,  North ,8,0,0.1,Credit Card
+ORD-000496,2024-03-15,CUST-0019,P1001,Wireless Mouse,Electronics,East,8,24.11,0.2,UPI
+ORD-000195,2025-02-19,CUST-0118,P4004,Sunglasses,Accessories,East,10,81.59,0.0,PayPal
+ORD-000119,2025-03-24,CUST-0012,P3003,Winter Jacket,Clothing,South,2,126.23,0.05,PayPal
+ORD-000057,2025-03-11,CUST-0191,P2002,Standing Desk,Furniture,East,1,418.34,0.0,UPI
+ORD-000073,2024-10-16,,P4004,Sunglasses,aCCESSORIES,  North ,2,78.92,0.15,Cash
+ORD-000023,2025-05-29,CUST-0236,P3005,Hoodie,Clothing,West,2,38.31,0.05,Debit Card
+ORD-000276,2024-12-16,CUST-0044,P3006,Formal Shirt,Clothing,West,5,34.42,0.0,Debit Card
+ORD-000047,2024-09-15,CUST-0214,P2005,Coffee Table,Furniture,North,1,101.52,0.0,Credit Card
+ORD-000427,2024-02-24,CUST-0120,P4004,Sunglasses,Accessories,East,3,77.19,0.0,Credit Card
+ORD-000223,2025/02/22,CUST-0176,P3004,Running Shoes,Clothing,South,4,80.97,0.1,PayPal
+ORD-000529,2024-06-15,CUST-0137,P3004,Running Shoes,Clothing,South,8,86.77,0.0,Credit Card
+ORD-000090,2024-03-03,CUST-0102,P1003,27-inch Monitor,Electronics,North,1,256.14,0.05,Credit Card
+ORD-000283,2024-05-03,CUST-0244,P1007,,Electronics,East,4,16.26,0.1,Debit Card
+ORD-000667,2024-02-25,CUST-0211,P4002,Backpack,Accessories,South,1,55.68,0.0,Debit Card
+ORD-000326,2025-06-30,CUST-0074,P1004,Noise Cancelling Headphones,Electronics,West,10,194.85,0.1,Net Banking
+ORD-000455,2024-12-09,CUST-0119,P2003,Bookshelf,Furniture,East,4,114.78,0.15,Net Banking
+ORD-000484,2025-05-11,CUST-0022,P1005,USB-C Hub,Electronics,North,3,40.36,0.25,Credit Card
+ORD-000329,2024-02-25,CUST-0004,P2001,Office Chair,Furniture,East,1,183.94,0.0,Debit Card
+ORD-000299,28-04-2025,CUST-0228,P3001,,Clothing,North,5,14.69,0.0,Credit Card
+ORD-000313,2024-05-15,CUST-0179,P4001,Leather Wallet,Accessories,East,-1,29.94,0.2,Debit Card
+ORD-000556,2024-07-02,CUST-0004,P3003,Winter Jacket,Clothing,West,1,127.72,0.0,Net Banking
+ORD-000527,2024-05-31,CUST-0091,P4005,Laptop Sleeve,Accessories,North,10,21.73,0.0,Debit Card
+ORD-000122,2024-10-18,CUST-0022,P3005,Hoodie,Clothing,East,8,38.58,0.05,UPI
+ORD-000206,2025-03-21,CUST-0071,P2002,Standing Desk,Furniture,South,1,427.19,0.2,Net Banking
+ORD-000101,2025-06-27,CUST-0056,P2005,Coffee Table,Furniture,South,8,97.14,0.0,Net Banking
+ORD-000118,2024-04-13,CUST-0130,P1002,Mechanical Keyboard,Electronics,East,1,88.52,0.2,PayPal
+ORD-000081,2025/01/25,CUST-0147,P2003,Bookshelf,Furniture,South,5,,0.0,UPI
+ORD-000127,2024-01-17,CUST-0162,P2003,Bookshelf,Furniture,South,2,114.01,0.0,Debit Card
+ORD-000597,2024-02-11,CUST-0114,P3003,Winter Jacket,null,South,5,128.91,0.0,PayPal
+ORD-000109,2025-06-06,,P2005,Coffee Table,Furniture,North,3,97.53,0.0,Cash
+ORD-000650,2024-02-23,CUST-0052,P3004,Running Shoes,Clothing,North,8,84.57,0.1,Cash
+ORD-000468,2025-05-08,CUST-0099,P4001,Leather Wallet,Accessories,North,4,30.84,-0.1,Debit Card
+ORD-000485,2025-01-13,CUST-0207,P1006,Bluetooth Speaker,Electronics,North,1,60.77,0.0,PayPal
+ORD-000009,2024-08-05,CUST-0168,P2002,Standing Desk,Furniture,South,2,413.54,0.2,PayPal
+ORD-000040,2025-05-21,CUST-0103,P1004,Noise Cancelling Headphones,Electronics,North,3,193.89,0.25,PayPal
+ORD-000156,2025-03-02,CUST-0150,P1001,Wireless Mouse,Electronics,South,1,25.54,0.2,PayPal
+ORD-000244,2024-02-26,CUST-0080,P1004,Noise Cancelling Headphones,,East,1,203.65,0.15,PayPal
+ORD-000424,2024-05-29,CUST-0113,P2005,Coffee Table,Furniture,North,1,95.59,0.0,Debit Card
+ORD-000420,2024-12-10,CUST-0022,P3001,Cotton T-Shirt,Clothing,South,2,14.63,15,PayPal
+ORD-000236,2024-01-10,CUST-0003,P1005,USB-C Hub,  Electronics ,eAST,1,41.04,0.0,Credit Card
+ORD-000439,2025-03-26,CUST-0102,P3002,Denim Jeans,  Clothing ,  West ,3,48.96,0.0,UPI
+ORD-000280,2025-04-01,CUST-0012,P2002,Standing Desk,Furniture,North,3,431.76,0.0,Net Banking
+ORD-000076,2025-05-22,CUST-0247,P3003,Winter Jacket,Clothing,North,3,132.63,0.2,Cash
+ORD-000040,2025-05-21,CUST-0103,P3002,Denim Jeans,Clothing,North,4,47.74,0.25,PayPal
+ORD-000202,2024-03-28,CUST-0198,P2002,Standing Desk,furniture,EAST,1,421.14,0.1,Debit Card
+ORD-000489,2024-10-06,CUST-0086,P4001,Leather Wallet,Accessories,North,3,29.66,0.05,Credit Card
+ORD-000237,2024-03-11,CUST-0136,P2005,Coffee Table,null,East,1,100.15,0.0,Cash
+ORD-000294,2024-04-14,CUST-0002,P2005,Coffee Table,Furniture,South,3,99.93,0.25,PayPal
+ORD-000534,2025-01-13,CUST-0099,P2003,Bookshelf,FURNITURE,south,1,125.72,0.25,UPI
+ORD-000124,2024-08-17,CUST-0008,P2004,,,South,3,151.92,0.25,Credit Card
+ORD-000440,2025-04-19,CUST-0213,P1004,Noise Cancelling Headphones,Electronics,East,3,205.06,0.0,Credit Card
+ORD-000595,2024-09-27,CUST-0133,P3004,Running Shoes,Clothing,South,5,86.73,0.25,Debit Card
+ORD-000649,2024-01-28,CUST-0183,P1005,USB-C Hub,Electronics,North,2,39.60,0.0,Net Banking
+ORD-000545,2024-13-45,CUST-0129,P4002,Backpack,Accessories,North,1,54.54,0.0,Debit Card
+ORD-000271,2025-05-13,CUST-0167,P4005,Laptop Sleeve,Accessories,South,1,21.87,0.1,PayPal
+ORD-000613,2024-05-08,CUST-0035,P4005,Laptop Sleeve,Accessories,North,3,23.30,0.05,Credit Card
+ORD-000285,2024-04-18,CUST-0145,P2005,Coffee Table,Furniture,East,2,96.66,0.25,UPI
+ORD-000557,2024-03-07,CUST-0094,P3001,Cotton T-Shirt,Clothing,West,3,14.42,0.1,UPI
+ORD-000178,2024-05-01,CUST-0046,P4006,Water Bottle,Accessories,West,4,13.61,0.1,Net Banking
+ORD-000260,17-03-2024,CUST-0006,P1005,USB-C Hub,Electronics,West,8,41.72,0.2,Debit Card
+ORD-000659,2025-03-31,CUST-0173,P2005,Coffee Table,Furniture,North,3,95.80,0.0,Net Banking
+ORD-000598,2024-12-23,CUST-0024,P1006,Bluetooth Speaker,Electronics,North,2,60.47,0.05,UPI
+ORD-000167,2025-02-10,CUST-0202,P1002,Mechanical Keyboard,Electronics,South,2,88.05,0.25,PayPal
+ORD-000088,2025-04-09,CUST-0095,P3006,Formal Shirt,CLOTHING,EAST,5,35.30,0.0,PayPal
+ORD-000297,2024-07-04,CUST-0076,P4006,Water Bottle,Accessories,North,3,13.33,1.5,Debit Card
+ORD-000660,2024-08-14,NULL,P2005,Coffee Table,FURNITURE,north,2,96.37,0.1,UPI
+ORD-000425,2024-09-05,CUST-0243,P2003,Bookshelf,Furniture,East,1,118.11,0.25,Debit Card
+ORD-000560,2024-03-19,CUST-0170,P2003,Bookshelf,Furniture,East,1,123.70,0.0,Net Banking
+ORD-000350,02-01-2025,CUST-0011,P2002,Standing Desk,Furniture,North,1,423.40,0.15,Net Banking
+ORD-000544,2024-05-27,CUST-0004,P3004,Running Shoes,Clothing,North,1,83.76,0.05,UPI
+ORD-000130,2024-05-16,CUST-0012,P4004,,Accessories,South,2,75.55,0.1,UPI
+ORD-000486,2024-05-28,,P3001,Cotton T-Shirt,Clothing,WEST,1,15.11,0.1,Debit Card
+ORD-000225,2025-03-27,CUST-0140,P4003,Wrist Watch,Accessories,North,10,153.76,0.25,Net Banking
+ORD-000533,2024-07-19,CUST-0006,P1003,27-inch Monitor,Electronics,North,3,246.37,0.0,Net Banking
+ORD-000216,2025-06-12,CUST-0045,P3003,Winter Jacket,Clothing,East,1,125.54,0.2,UPI
+ORD-000545,2024-06-07,CUST-0129,P3006,Formal Shirt,Clothing,North,4,35.65,0.0,Debit Card
+ORD-000312,2024-06-23,CUST-0085,P1003,27-inch Monitor,ELECTRONICS,  South ,4,256.47,0.0,Net Banking
+ORD-000396,2024-08-10,CUST-0088,P3003,Winter Jacket,Clothing,South,8,126.81,0.0,Net Banking
+ORD-000024,2025-02-17,CUST-0031,P4002,Backpack,  Accessories ,west,3,52.46,0.15,Cash
+ORD-000625,2024-02-21,CUST-0238,P3006,Formal Shirt,Clothing,West,5,35.91,0.0,Net Banking
+ORD-000372,2025-06-12,CUST-0138,P1003,27-inch Monitor,Electronics,North,1,246.48,0.0,UPI
+ORD-000240,2025/05/21,CUST-0099,P1003,27-inch Monitor,Electronics,North,2,258.68,0.15,Net Banking
+ORD-000308,2025-03-04,CUST-0213,P2003,Bookshelf,Furniture,West,10,123.33,0.15,Cash
+ORD-000525,2024-10-27,CUST-0107,P3004,Running Shoes,  Clothing ,WEST,1,84.03,0.0,Cash
+ORD-000338,2024-09-21,CUST-0105,P2004,Filing Cabinet,Furniture,South,2,141.80,0.0,PayPal
+ORD-000255,2024-06-17,CUST-0116,P2005,Coffee Table,Furniture,South,1,abc,0.1,Net Banking
+ORD-000680,2024-10-28,CUST-0203,P2002,Standing Desk,Furniture,North,8,445.00,0.25,Debit Card
+ORD-000296,2024-02-06,CUST-0150,P2004,Filing Cabinet,  Furniture ,  East ,3,152.18,0.25,Cash
+ORD-000222,2025-05-16,CUST-0074,P1002,Mechanical Keyboard,Electronics,North,2,92.83,0.25,UPI
+ORD-000219,2025-02-01,CUST-0157,P3003,Winter Jacket,Clothing,South,3,130.51,0.1,Credit Card
+ORD-000654,2024-01-01,CUST-0016,P2002,Standing Desk,Furniture,West,2,443.56,0.05,Net Banking
+ORD-000551,2025-05-27,CUST-0200,P1003,27-inch Monitor,Electronics,East,1,239.02,0.05,Debit Card
+ORD-000572,2025-06-29,CUST-0208,P4006,Water Bottle,Accessories,East,1,13.02,0.0,Net Banking
+ORD-000013,2024-11-01,CUST-0216,P2005,Coffee Table,Furniture,East,4,101.60,0.0,Cash
+ORD-000110,2024-08-29,CUST-0027,P1005,USB-C Hub,Electronics,North,1,40.99,0.25,Debit Card
+ORD-000181,2024-02-27,CUST-0036,P4006,Water Bottle,  Accessories ,south,4,13.09,0.15,UPI
+ORD-000304,2025-06-16,CUST-0153,P1005,USB-C Hub,Electronics,South,4,41.93,0.0,Net Banking
+ORD-000277,2024-06-09,CUST-0014,P3006,Formal Shirt,Clothing,North,2,33.78,0.1,Debit Card
+ORD-000230,2024-12-01,CUST-0149,P3003,Winter Jacket,Clothing,North,5,130.74,0.2,PayPal
+ORD-000038,2025-03-28,CUST-0114,P4006,Water Bottle,Accessories,East,2,12.56,0.15,Cash
+ORD-000288,not_a_date,CUST-0049,P2005,Coffee Table,Furniture,South,4,101.07,0.0,Net Banking
+ORD-000230,2024-12-01,CUST-0149,P3003,Winter Jacket,Clothing,North,5,130.74,0.2,PayPal
+ORD-000300,2024-05-26,CUST-0081,P2004,Filing Cabinet,Furniture,West,4,148.29,0.0,Debit Card
+ORD-000303,05-01-2024,CUST-0161,P2003,Bookshelf,Furniture,East,8,114.77,0.25,Debit Card
+ORD-000428,2024-01-20,NULL,P3001,Cotton T-Shirt,Clothing,West,5,15.00,0.25,PayPal
+ORD-000388,2024/08/03,CUST-0043,P3004,Running Shoes,Clothing,South,2,84.91,0.0,Credit Card
+ORD-000602,2024-08-04,CUST-0221,P1002,Mechanical Keyboard,Electronics,North,3,92.18,0.0,PayPal
+ORD-000516,2025-04-29,CUST-0215,P2001,Office Chair,Furniture,South,2,186.41,0.0,Credit Card
+ORD-000631,2025-02-03,CUST-0186,P3006,Formal Shirt,Clothing,East,2,34.23,0.15,Debit Card
+ORD-000547,2024-06-25,CUST-0182,P2001,Office Chair,  Furniture ,south,1,185.39,0.0,PayPal
+ORD-000190,2025-05-26,CUST-0141,P3004,Running Shoes,Clothing,East,2,88.44,0.0,PayPal
+ORD-000604,2024-05-03,,P4004,Sunglasses,Accessories,South,5,79.10,0.25,Net Banking
+ORD-000474,2024-04-22,CUST-0221,P4005,Laptop Sleeve,Accessories,North,3,22.69,0.2,Credit Card
+ORD-000265,2024-06-12,CUST-0026,P4006,Water Bottle,Accessories,North,1,12.41,0.2,Debit Card
+ORD-000266,2024-12-29,CUST-0240,P4001,Leather Wallet,Accessories,West,2,29.44,0.0,Debit Card
+ORD-000645,2025-06-18,CUST-0049,P1004,Noise Cancelling Headphones,Electronics,East,1,208.20,0.05,Cash
+ORD-000206,2025-03-21,CUST-0071,P2005,Coffee Table,Furniture,South,2,103.40,0.05,Net Banking
+ORD-000036,2025-01-07,CUST-0111,P2004,Filing Cabinet,  Furniture ,nORTH,3,151.49,0.0,PayPal
+ORD-000120,,CUST-0174,P2003,Bookshelf,Furniture,West,2,123.33,0.0,Net Banking
+ORD-000172,2025-03-01,CUST-0180,P4004,Sunglasses,Accessories,South,2,0,0.0,Net Banking
+ORD-000404,2024-10-28,CUST-0139,P3006,Formal Shirt,Clothing,East,1,34.46,0.0,Debit Card
+ORD-000679,2025-01-16,CUST-0170,P4005,Laptop Sleeve,ACCESSORIES,nORTH,1,23.56,0.05,Cash
+ORD-000367,2024-07-18,CUST-0009,P2001,Office Chair,Furniture,East,2,181.06,0.0,Cash
+ORD-000210,2025-04-17,CUST-0242,P4005,Laptop Sleeve,Accessories,East,2,23.21,0.25,Net Banking
+ORD-000091,2024-08-26,CUST-0085,P1005,USB-C Hub,eLECTRONICS,EAST,4,41.90,0.0,Cash
+ORD-000562,2024-06-17,CUST-0126,P3004,Running Shoes,Clothing,South,2,85.08,0.25,UPI
+ORD-000211,2025-03-09,CUST-0203,P4001,Leather Wallet,Accessories,South,2,30.12,0.0,Net Banking
+ORD-000396,2024-08-10,CUST-0088,P1002,Mechanical Keyboard,Electronics,South,4,87.22,0.0,Net Banking
+ORD-000452,2024-07-31,CUST-0205,P2004,Filing Cabinet,Furniture,East,1,146.76,0.05,Net Banking
+ORD-000698,2025-06-22,CUST-0085,P4001,Leather Wallet,Accessories,West,3,28.61,0.25,Net Banking
+ORD-000412,2024-12-26,CUST-0232,P4003,Wrist Watch,Accessories,South,3,148.12,0.15,UPI
+ORD-000020,2024-04-10,CUST-0013,P2001,Office Chair,Furniture,East,1,186.20,0.2,Cash
+ORD-000037,2024-11-04,CUST-0104,P1007,Smartphone Stand,Electronics,South,3,15.38,0.25,Credit Card
+ORD-000007,2024-06-24,CUST-0137,P2002,Standing Desk,null,East,2,450.00,0.15,Debit Card
+ORD-000335,2025-06-10,CUST-0206,P4003,Wrist Watch,Accessories,South,8,145.38,0.0,Net Banking
+ORD-000269,2024-05-13,CUST-0088,P1005,USB-C Hub,Electronics,East,4,40.30,0.15,UPI
+ORD-000041,2024-05-16,CUST-0206,P2004,Filing Cabinet,Furniture,South,2,154.92,0.1,Cash
+ORD-000416,2024-11-28,CUST-0203,P4005,Laptop Sleeve,Accessories,South,3,23.21,0.0,Net Banking
+ORD-000262,2024-10-29,CUST-0128,P1003,27-inch Monitor,ELECTRONICS,  South ,1,243.52,0.05,Cash
+ORD-000455,2024-12-09,CUST-0119,P3005,Hoodie,Clothing,East,4,,0.15,Net Banking
+ORD-000360,2024-08-22,CUST-0241,P4006,Water Bottle,aCCESSORIES,west,2,13.52,0.2,Net Banking
+ORD-000136,2024-02-01,CUST-0037,P1002,Mechanical Keyboard,Electronics,West,2,86.10,0.2,PayPal
+ORD-000172,2025-03-01,CUST-0180,P1007,Smartphone Stand,Electronics,South,2,15.53,0.0,Net Banking
+ORD-000572,2025-06-29,CUST-0208,P1002,Mechanical Keyboard,ELECTRONICS,east,1,88.36,0.05,Net Banking
+ORD-000343,13-05-2025,CUST-0244,P2001,Office Chair,Furniture,South,1,175.15,0.25,Debit Card
+ORD-000436,2025-02-26,CUST-0057,P1006,Bluetooth Speaker,Electronics,East,5,60.11,0.2,Debit Card
+ORD-000588,2024-01-22,CUST-0243,P2001,Office Chair,Furniture,North,3,170.94,0.0,Cash
+ORD-000291,2024-04-02,CUST-0073,P4001,Leather Wallet,Accessories,North,1,30.83,0.05,Credit Card
+ORD-000550,2024-07-23,CUST-0048,P4006,Water Bottle,Accessories,East,0,13.56,0.0,Credit Card
+ORD-000315,2024-12-12,CUST-0133,P3002,Denim Jeans,Clothing,South,3,51.12,0.2,PayPal
+ORD-000083,2024-04-02,CUST-0233,P1007,Smartphone Stand,Electronics,North,10,14.92,0.1,PayPal
+ORD-000590,2024-05-01,CUST-0058,P2003,Bookshelf,Furniture,East,3,125.93,0.2,Debit Card
+ORD-000105,2024-10-23,CUST-0084,P1005,USB-C Hub,Electronics,North,1,38.24,0.0,Net Banking
+ORD-000666,2024/08/19,CUST-0177,P1006,Bluetooth Speaker,Electronics,South,4,58.60,0.15,Credit Card
+ORD-000094,2025-04-14,CUST-0165,P4004,,Accessories,West,1,78.06,0.2,Credit Card
+ORD-000155,2024-12-10,CUST-0130,P4001,Leather Wallet,Accessories,West,2,29.39,0.0,Cash
+ORD-000491,2025/06/21,CUST-0027,P2003,Bookshelf,Furniture,East,3,117.01,0.0,UPI
+ORD-000063,2025-04-26,CUST-0075,P4005,Laptop Sleeve,Accessories,North,1,21.53,0.05,UPI
+ORD-000528,,CUST-0067,P1002,Mechanical Keyboard,Electronics,South,1,91.48,0.25,Debit Card
+ORD-000339,2024-02-16,CUST-0180,P4004,Sunglasses,Accessories,West,2,79.26,0.1,UPI
+ORD-000505,2024-07-26,CUST-0110,P2004,Filing Cabinet,fURNITURE,sOUTH,1,156.09,0.05,PayPal
+ORD-000669,2025-02-24,CUST-0060,P3001,Cotton T-Shirt,Clothing,West,4,14.75,0.25,PayPal
+ORD-000080,2025-04-15,CUST-0066,P3006,Formal Shirt,Clothing,East,1,35.48,0.1,Net Banking
+ORD-000252,2024-04-05,CUST-0012,P2005,Coffee Table,furniture,WEST,2,98.59,0.0,Cash
+ORD-000187,2024-09-05,,P2001,,Furniture,East,2,179.93,,Debit Card
+ORD-000170,2024-01-12,CUST-0067,P4004,Sunglasses,aCCESSORIES,eAST,2,75.98,0.1,PayPal
+ORD-000151,2024-02-19,CUST-0013,P4003,Wrist Watch,Accessories,North,4,149.55,0.2,Cash
+ORD-000069,2025-04-18,CUST-0106,P3004,Running Shoes,Clothing,North,1,85.56,0.0,Cash
+ORD-000436,2025-02-26,CUST-0057,P1003,27-inch Monitor,ELECTRONICS,EAST,5,259.63,0.25,Debit Card
+ORD-000361,2024-05-17,CUST-0066,P2003,Bookshelf,Furniture,South,1,120.93,0.05,Debit Card
+ORD-000472,2024-11-02,CUST-0146,P3002,Denim Jeans,Clothing,East,10,51.08,0.0,PayPal
+ORD-000455,2024-12-09,CUST-0119,P1002,Mechanical Keyboard,ELECTRONICS,EAST,2,90.57,0.0,Net Banking
+ORD-000121,2024-07-23,NULL,P3004,Running Shoes,Clothing,East,1,87.66,0.0,UPI
+ORD-000433,2025-02-27,CUST-0247,P4006,Water Bottle,Accessories,South,-1,12.37,0.05,Net Banking
+ORD-999998,2024-05-05,CUST-0001,P1001,Wireless Mouse,Electronics
+ORD-999999,2024-05-06,CUST-0002,P1002,Mechanical Keyboard,Electronics,North,three,ninety,0.1,UPI,EXTRA
